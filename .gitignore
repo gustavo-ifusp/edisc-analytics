@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*~
+/cache/*
+/figs/*
+__pycache__/
+*.py[cod]
+!whatsthisdirectory.txt
+/data/nonpublic/
+/lib/.vscode
+dbpass.txt

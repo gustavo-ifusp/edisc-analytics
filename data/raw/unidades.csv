@@ -1,0 +1,102 @@
+id	codund	tipund	codcam	sglund	nomund
+1	1	Órgãos Centrais - Direção e Serviço	10	RUSP	Reitoria da Universidade de São Paulo
+2	2	Ensino e Pesquisa	10	FD	Faculdade de Direito
+3	3	Ensino e Pesquisa	10	EP	Escola Politécnica
+4	4	Centros e Institutos Especializados	10	IEE	Instituto de Energia e Ambiente
+5	5	Ensino e Pesquisa	10	FM	Faculdade de Medicina
+6	6	Ensino e Pesquisa	10	FSP	Faculdade de Saúde Pública
+7	7	Ensino e Pesquisa	10	EE	Escola de Enfermagem
+8	8	Ensino e Pesquisa	10	FFLCH	Faculdade de Filosofia, Letras e Ciências Humanas
+9	9	Ensino e Pesquisa	10	FCF	Faculdade de Ciências Farmacêuticas
+10	10	Ensino e Pesquisa	10	FMVZ	Faculdade de Medicina Veterinária e Zootecnia
+11	11	Ensino e Pesquisa	30	ESALQ	Escola Superior de Agricultura "Luiz de Queiroz"
+12	12	Ensino e Pesquisa	10	FEA	Faculdade de Economia, Administração e Contabilidade
+13	13	Órgãos Centrais - Direção e Serviço	20	PUSP-B	Prefeitura do Campus Usp de Bauru
+14	14	Ensino e Pesquisa	10	IAG	Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+15	15	Entidades Associadas	10	IPT	Instituto de Pesquisas Tecnológicas
+16	16	Ensino e Pesquisa	10	FAU	Faculdade de Arquitetura e Urbanismo
+17	17	Ensino e Pesquisa	60	FMRP	Faculdade de Medicina de Ribeirão Preto
+18	18	Ensino e Pesquisa	50	EESC	Escola de Engenharia de São Carlos
+19	19	Órgãos Centrais - Direção e Serviço	40	PUSP-FC	Prefeitura do Campus Usp "Fernando Costa"
+20	20	Ensino e Pesquisa	10	SESA	Serviço Especial de Saúde de Araraquara
+21	21	Ensino e Pesquisa	10	IO	Instituto Oceanográfico
+22	22	Ensino e Pesquisa	60	EERP	Escola de Enfermagem de Ribeirão Preto
+23	23	Ensino e Pesquisa	10	FO	Faculdade de Odontologia
+24	24	Centros e Institutos Especializados	10	IR	Instituto de Reabilitação
+25	25	Ensino e Pesquisa	20	FOB	Faculdade de Odontologia de Bauru
+26	26	Centros e Institutos Especializados	10	IPH	Instituto de Pré-História
+27	27	Ensino e Pesquisa	10	ECA	Escola de Comunicações e Artes
+28	28	Centros e Institutos Especializados	10	IZ	Instituto Zimotécnico
+29	29	Centros e Institutos Especializados	10	IPM	Instituto de Pesquisas Matemáticas
+30	30	Centros e Institutos Especializados	10	CEBIMar	Centro de Biologia Marinha
+31	31	Centros e Institutos Especializados	10	IEB	Instituto de Estudos Brasileiros
+32	32	Museus	10	MAC	Museu de Arte Contemporânea
+33	33	Museus	10	MP	Museu Paulista
+34	34	Centros e Institutos Especializados	10	IGEO	Instituto de Geografia
+35	35	Órgãos Centrais - Direção e Serviço	10	SAS	Superintendência de Assistência Social
+36	36	Museus	10	MAE-D	Museu de Arqueologia e Etnologia (desativado)
+37	37	Centros e Institutos Especializados	10	IEA	Instituto de Estudos Avançados
+38	38	Museus	10	MZ	Museu de Zoologia
+39	39	Ensino e Pesquisa	10	EEFE	Escola de Educação Física e Esporte
+40	40	Centros e Institutos Especializados	10	CMN	Centro de Medicina Nuclear
+41	41	Ensino e Pesquisa	10	IB	Instituto de Biociências
+42	42	Ensino e Pesquisa	10	ICB	Instituto de Ciências Biomédicas
+43	43	Ensino e Pesquisa	10	IF	Instituto de Física
+44	44	Ensino e Pesquisa	10	IGc	Instituto de Geociências
+45	45	Ensino e Pesquisa	10	IME	Instituto de Matemática e Estatística
+46	46	Ensino e Pesquisa	10	IQ	Instituto de Química
+47	47	Ensino e Pesquisa	10	IP	Instituto de Psicologia
+48	48	Ensino e Pesquisa	10	FE	Faculdade de Educação
+49	49	Órgãos Centrais - Direção e Serviço	10	PUSP-C	Prefeitura do Campus Usp da Capital
+50	50	Hospitais e Serviços Anexos	10	SVOC	Serviço de Verificação de Óbitos da Capital
+51	51	Órgãos Centrais - Direção e Serviço	10	FUNDUSP	Fundo de Construção da Universidade de São Paulo
+52	52	Órgãos Centrais - Direção e Serviço	50	PUSP-SC	Prefeitura do Campus Usp de São Carlos
+53	53	Órgãos Centrais - Direção e Serviço	60	PUSP-RP	Prefeitura do Campus Usp de Ribeirão Preto
+54	54	Ensino e Pesquisa	50	IFQSC	Instituto de Física e Química de São Carlos
+55	55	Ensino e Pesquisa	50	ICMC	Instituto de Ciências Matemáticas e de Computação
+56	56	Órgãos Centrais - Direção e Serviço	10	SCS	Superintendência de Comunicação Social
+57	57	Órgãos Centrais - Direção e Serviço	10	PCO-A	Prefeitura da Cidade Universitária - Analfabetos
+58	58	Ensino e Pesquisa	60	FORP	Faculdade de Odontologia de Ribeirão Preto
+59	95	Órgãos Centrais - Direção e Serviço	10	PUSP-CL	Prefeitura Usp da Área Capital-leste
+60	59	Ensino e Pesquisa	60	FFCLRP	Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto
+61	60	Ensino e Pesquisa	60	FCFRP	Faculdade de Ciências Farmacêuticas de Ribeirão Preto
+62	61	Hospitais e Serviços Anexos	20	HRAC	Hospital de Reabilitação de Anomalias Craniofaciais
+63	62	Hospitais e Serviços Anexos	10	HU	Hospital Universitário
+64	63	Órgãos Centrais - Direção e Serviço	10	CEPEUSP	Centro de Práticas Esportivas da Universidade de São Paulo
+65	64	Centros e Institutos Especializados	30	CENA	Centro de Energia Nuclear na Agricultura
+66	65	Ensino e Pesquisa	60	FFORP	Faculdade de Farmácia e Odontologia de Ribeirão Preto
+67	66	Órgãos Centrais - Direção e Serviço	30	PUSP-LQ	Prefeitura do Campus Usp "Luiz de Queiroz"
+68	67	Hospitais e Serviços Anexos	60	SVOI	Serviço de Verificação de Óbitos do Interior
+69	68	Órgãos Centrais - Direção e Serviço	10	UEPBID	Unidade Executora do Projeto Bid
+70	69	Órgãos Centrais - Direção e Serviço	10	SIBI	Sistema Integrado de Bibliotecas
+71	70	Órgãos Centrais - Direção e Serviço	10	CCE	Centro de Computação Eletrônica da Universidade de São Paulo
+72	71	Museus	10	MAE	Museu de Arqueologia e Etnologia
+73	72	Órgãos Centrais - Direção e Serviço	10	CECAE	Coordenadoria Executiva de Cooperação Universitária e de Atividades Especiais
+74	73	Órgãos Centrais - Direção e Serviço	50	CISC	Centro de Informática de São Carlos
+75	74	Ensino e Pesquisa	40	FZEA	Faculdade de Zootecnia e Engenharia de Alimentos
+76	75	Ensino e Pesquisa	50	IQSC	Instituto de Química de São Carlos
+77	76	Ensino e Pesquisa	50	IFSC	Instituto de Física de São Carlos
+78	77	Órgãos Centrais - Direção e Serviço	60	CIRP	Centro de Informática de Ribeirão Preto
+79	78	Órgãos Centrais - Direção e Serviço	50	CDCC	Centro de Divulgação Científica e Cultural
+80	79	Ensino e Pesquisa	10	FFO	Faculdade de Farmácia e Odontologia
+81	80	Órgãos Centrais - Direção e Serviço	30	CIAGRI	Centro de Informática do Campus "Luiz de Queiroz"
+82	81	Ensino e Pesquisa	60	FEARP	Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto
+83	82	Órgãos Centrais - Direção e Serviço	10	SEF	Superintendência do Espaço Físico
+84	83	Centros e Institutos Especializados	10	IMT	Instituto de Medicina Tropical de São Paulo
+85	84	Órgãos Centrais - Direção e Serviço	10	STI	Superintendência de Tecnologia da Informação
+86	85	Entidades Associadas	10	IPEN	Instituto de Pesquisas Energéticas e Nucleares
+87	86	Ensino e Pesquisa	10	EACH	Escola de Artes, Ciências e Humanidades
+88	87	Ensino e Pesquisa	10	IRI	Instituto de Relações Internacionais
+89	88	Ensino e Pesquisa	70	EEL	Escola de Engenharia de Lorena
+90	89	Ensino e Pesquisa	60	FDRP	Faculdade de Direito de Ribeirão Preto
+91	90	Ensino e Pesquisa	60	EEFERP	Escola de Educação Física e Esporte de Ribeirão Preto
+92	91	Órgãos Centrais - Direção e Serviço	10	EDUSP	Editora da Universidade de São Paulo
+93	92	Órgãos Centrais - Direção e Serviço	10	PUSPQSD	Prefeitura Usp do Quadrilátero Saúde / Direito
+94	93	Ensino e Pesquisa	50	IAU	Instituto de Arquitetura e Urbanismo
+95	94	Órgãos Centrais - Direção e Serviço	70	PUSP-L	Prefeitura do Campus Usp de Lorena
+96	127	Entidades Associadas	10	IDPC	Instituto Dante Pazzanese de Cardiologia
+97	127	Entidades Associadas	10	IMESC	Instituto de Medicina Social e de Criminologia de São Paulo
+98	127	Entidades Associadas	60	HCFMRP	Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto
+99	127	Entidades Associadas	10	HCFMUSP	Hospital das Clínicas da Faculdade de Medicina da USP
+100	127	Entidades Associadas	10	FAP	Fundação Antonio Prudente
+101	127	Entidades Associadas	10	BUTANTA	Instituto Butantan

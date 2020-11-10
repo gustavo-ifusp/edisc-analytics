@@ -1,0 +1,1280 @@
+id	codcur	codhab	nomhab	tiphab	perhab
+1	1020	0	Ciências Moleculares	B	integral
+2	1050	103	Ciclo Básico	U	vespertino
+3	1050	104	Ciclo Básico	U	noturno
+4	1050	201	Área: Direito	I	diurno
+5	1050	204	Área: Direito	I	noturno
+6	1050	301	Área: Economia	I	diurno
+7	1050	303	Área: Economia	I	vespertino
+8	1050	304	Área: Economia	I	noturno
+9	1050	403	Área: Ciência Política	I	vespertino
+10	1050	404	Área: Ciência Política	I	noturno
+11	1050	503	Área: História	I	vespertino
+12	1050	504	Área: História	I	noturno
+13	1051	1	Bacharelado em Relações Internacionais	B	diurno
+14	1051	4	Bacharelado em Relações Internacionais	B	noturno
+15	1080	101	Licenciatura em Ciências (Polo São Paulo)	E	diurno
+16	1080	201	Licenciatura em Ciências (Polo Piracicaba)	E	diurno
+17	1080	301	Licenciatura em Ciências (Polo Ribeirão Preto)	E	diurno
+18	1080	401	Licenciatura em Ciências (Polo São Carlos)	E	diurno
+19	1080	501	Licenciatura em Ciências (Polo Jaú)	E	diurno
+20	1080	601	Licenciatura em Ciências (Polo Lorena)	E	diurno
+21	1080	701	Licenciatura em Ciências (Polo Santos)	E	diurno
+22	2010	102	Direito - Núcleo Geral	U	matutino
+23	2010	104	Direito - Núcleo Geral	U	noturno
+24	2010	202	Área: Direito Político, Administrativo e Financeiro	I	matutino
+25	2010	204	Área: Direito Político, Administrativo e Financeiro	I	noturno
+26	2010	302	Área: Direito Penal e Criminologia	I	matutino
+27	2010	304	Área: Direito Penal e Criminologia	I	noturno
+28	2010	402	Área: Direito Privado e Processo Civil	I	matutino
+29	2010	404	Área: Direito Privado e Processo Civil	I	noturno
+30	2010	502	Área: Direito de Empresa (Administração Empresarial e Tributária)	I	matutino
+31	2010	504	Área: Direito de Empresa (Administração Empresarial e Tributária)	I	noturno
+32	2010	602	Área: Direito do Trabalho e da Segurança Social	I	matutino
+33	2010	604	Área: Direito do Trabalho e da Segurança Social	I	noturno
+34	2010	702	Área Livre	I	matutino
+35	2010	703	Área Livre	I	vespertino
+36	2010	704	Área Livre	I	noturno
+37	2011	102	Direito - Núcleo Geral	U	matutino
+38	2011	104	Direito - Núcleo Geral	U	noturno
+39	2011	202	Área: Direito Político, Administrativo e Financeiro	I	matutino
+40	2011	204	Área: Direito Político, Administrativo e Financeiro	I	noturno
+41	2011	302	Área: Direito Penal e Criminologia	I	matutino
+42	2011	304	Área: Direito Penal e Criminologia	I	noturno
+43	2011	402	Área: Direito Privado e Processo Civil	I	matutino
+44	2011	404	Área: Direito Privado e Processo Civil	I	noturno
+45	2011	502	Área: Direito de Empresa (Administração Empresarial e Tributária)	I	matutino
+46	2011	504	Área: Direito de Empresa (Administração Empresarial e Tributária)	I	noturno
+47	2011	602	Área: Direito do Trabalho e da Segurança Social	I	matutino
+48	2011	604	Área: Direito do Trabalho e da Segurança Social	I	noturno
+49	2011	702	Área Livre	I	matutino
+50	2011	704	Área Livre	I	noturno
+51	2012	102	Direito - Núcleo Geral	U	matutino
+52	2012	104	Direito - Núcleo Geral	U	noturno
+53	2012	202	Área: Direito Político, Administrativo e Financeiro	I	matutino
+54	2012	204	Área: Direito Político, Administrativo e Financeiro	I	noturno
+55	2012	302	Área: Direito Penal e Criminologia	I	matutino
+56	2012	304	Área: Direito Penal e Criminologia	I	noturno
+57	2012	402	Área: Direito Privado e Processo Civil	I	matutino
+58	2012	404	Área: Direito Privado e Processo Civil	I	noturno
+59	2012	502	Área: Direito de Empresa (Administração Empresarial e Tributária)	I	matutino
+60	2012	504	Área: Direito de Empresa (Administração Empresarial e Tributária)	I	noturno
+61	2014	102	Direito	B	matutino
+62	2012	602	Área: Direito do Trabalho e da Segurança Social	I	matutino
+63	2012	604	Área: Direito do Trabalho e da Segurança Social	I	noturno
+64	2012	702	Área Livre	I	matutino
+65	2012	704	Área Livre	I	noturno
+66	2013	102	Direito	B	matutino
+67	2013	104	Direito	B	noturno
+68	2014	104	Direito	B	noturno
+69	3022	5000	Módulo: Tecnologia e Gestão da Produção na Construção	H	integral
+70	3010	0	Engenharia - Ciclo Básico	U	integral
+71	3022	5010	Módulo: Real Estate e Ambiente Construído	H	integral
+72	3011	0	Engenharia - Ciclo Básico	U	integral
+73	3011	10	Ciclo Básico - Engenharias Civil e Ambiental	U	integral
+74	3011	20	Ciclo Básico - Engenharia Elétrica	U	integral
+75	3011	30	Ciclo Básico - Engenharias Mecânica e Naval	U	integral
+76	3011	40	Ciclo Básico - Engenharias Química, Metalúrgica, Materiais, Minas e de Petróleo	U	integral
+77	3011	50	Ciclo Básico - Engenharias de Computação e Elétrica (Ênfase Computação)	U	integral
+78	3011	60	Ciclo Básico - Engenharia Mecânica - Automação e Sistemas (Mecatrônica)	U	integral
+79	3011	70	Ciclo Básico - Engenharia de Produção	U	integral
+80	3020	0	Engenharia Civil	B	integral
+81	3020	200	Habilitação em Engenharia Sanitária	B	integral
+82	3021	0	Grande Área - Engenharia Civil	S	integral
+83	3021	100	Habilitação: Engenharia Civil	I	integral
+84	3021	200	Engenharia Ambiental	I	integral
+85	3021	300	Habilitação: Engenharia Civil - Dupla Formação EPUSP - FAU	H	integral
+86	3022	0	Ciclo Básico - Civil / Ambiental	U	integral
+87	3022	3000	Habilitação: Engenharia Civil	I	integral
+88	3030	100	Engenharia Elétrica - Núcleo Geral	U	integral
+89	3030	200	Engenharia Elétrica - Modalidade Eletrônica	I	integral
+90	3030	300	Engenharia Elétrica - Modalidade Eletrônica AC	I	integral
+91	3030	400	Engenharia Elétrica - Modalidade Eletrônica BDE	I	integral
+92	3030	500	Engenharia Elétrica - Modalidade Eletrônica A	I	integral
+93	3030	600	Engenharia Elétrica - Modalidade Eletrônica B	I	integral
+94	3030	700	Engenharia Elétrica - Modalidade Eletrônica C	I	integral
+95	3030	800	Engenharia Elétrica - Modalidade Eletrônica D	I	integral
+96	3030	900	Engenharia Elétrica - Modalidade Eletrônica E	I	integral
+97	3030	1000	Engenharia Elétrica - Modalidade Eletrotécnica	I	integral
+98	3030	1100	Engenharia Elétrica - Modalidade Eletrotécnica A	I	integral
+99	3030	1200	Engenharia Elétrica - Modalidade Eletrotécnica B	I	integral
+100	3030	1300	Engenharia Elétrica - Modalidade Eletrotécnica C	I	integral
+101	3030	1400	Engenharia Elétrica - Modalidade Eletrotécnica D	I	integral
+102	3030	1500	Engenharia Elétrica - Ênfase Automação e Controle	I	integral
+103	3030	1600	Engenharia Elétrica - Ênfase em Telecomunicação	I	integral
+104	3030	1700	Engenharia Elétrica - Ênfase em Computação	I	integral
+105	3030	1800	Engenharia Elétrica - Ênfase em Microeletrônica	I	integral
+106	3030	1900	Engenharia Elétrica - Ênfase Potência	I	integral
+107	3030	2000	Engenharia Elétrica - Ênfase Energia Elétrica	I	integral
+108	3030	2100	Engenharia Elétrica - Ênfase Energia e Automação	I	integral
+109	3031	0	Grande Área - Engenharia Elétrica	S	integral
+110	3031	10	Grande Área - Engenharia Elétrica	S	integral
+111	3031	150	Habilitação: Engenharia Elétrica - Ênfase em Automação e Controle	I	integral
+112	3031	160	Habilitação: Engenharia Elétrica - Ênfase em Telecomunicações	I	integral
+113	3031	170	Habilitação: Engenharia Elétrica - Ênfase em Computação	I	integral
+114	3031	180	Habilitação: Engenharia Elétrica - Ênfase em Sistemas Eletrônicos	I	integral
+115	3031	190	Habilitação: Engenharia Elétrica - Ênfase em Energia e Automação Elétricas	I	integral
+116	3031	1170	Habilitação: Engenharia Elétrica - Ênfase em Computação	I	integral
+117	3032	0	Ciclo Básico - Engenharia Elétrica	U	integral
+118	3032	3150	Habilitação: Engenharia Elétrica - Ênfase em Automação e Controle	I	integral
+119	3032	3160	Habilitação: Engenharia Elétrica - Ênfase em Telecomunicações	I	integral
+120	3032	3170	Habilitação: Engenharia Elétrica - Ênfase em Computação	I	integral
+121	3032	3180	Habilitação: Engenharia Elétrica - Ênfase em Eletrônica e Sistemas	I	integral
+122	3052	5000	Módulo: Lavra de Minas	H	integral
+123	3032	3190	Habilitação: Engenharia Elétrica - Ênfase em Energia e Automação Elétricas	I	integral
+124	3040	0	Engenharia Mecânica	B	integral
+125	3041	0	Engenharia Mecânica	B	integral
+126	3042	100	Engenharia Mecânica - Núcleo Geral	U	integral
+127	3042	200	Engenharia Mecânica - Opção Energia e Fluidos	I	integral
+128	3042	300	Engenharia Mecânica - Opção Projeto e Fabricação	I	integral
+129	3043	0	Grande Área - Engenharia Mecânica	S	integral
+130	3043	100	Habilitação: Engenharia Mecânica	I	integral
+131	3044	3000	Habilitação: Engenharia Mecânica	I	integral
+132	3050	0	Engenharia de Minas	B	integral
+133	3051	0	Habilitação: Engenharia de Minas	I	integral
+134	3052	3000	Habilitação: Engenharia de Minas	I	integral
+135	3055	0	Habilitação: Engenharia de Petróleo	I	integral
+136	3056	3000	Habilitação: Engenharia de Petróleo	I	integral
+137	3060	0	Engenharia Metalúrgica	B	integral
+138	3061	0	Habilitação: Engenharia Metalúrgica	I	integral
+139	3032	5000	Módulo: Controle Aplicado e Industrial	H	integral
+140	3062	3000	Habilitação: Engenharia Metalúrgica	I	integral
+141	3070	100	Engenharia Naval - Núcleo Geral	U	integral
+142	3070	200	Engenharia Naval - ABD	I	integral
+143	3070	300	Engenharia Naval A - Máquinas	I	integral
+144	3070	400	Engenharia Naval B - Estruturas	I	integral
+145	3070	500	Engenharia Naval C - Transportes	I	integral
+146	3070	600	Engenharia Naval D - Tecnologia	I	integral
+147	3070	700	Engenharia Naval E - Hidrodinâmica	I	integral
+148	3052	5010	Módulo: Tratamento de Minérios	H	integral
+149	3071	0	Habilitação: Engenharia Naval	I	integral
+150	3071	100	Opção Máquinas	I	integral
+151	3071	200	Opção Estruturas	B	integral
+152	3071	300	Opção Transportes	B	integral
+153	3071	400	Opção Tecnologia	B	integral
+154	3072	3000	Habilitação: Engenharia Naval	I	integral
+155	3080	100	Engenharia de Produção	B	integral
+156	3080	200	Área de Engenharia Mecânica	B	integral
+157	3081	0	Engenharia de Produção - Área de Mecânica	B	integral
+158	3082	0	Habilitação: Engenharia de Produção	I	integral
+159	3083	3000	Habilitação: Engenharia de Produção	I	integral
+160	3090	0	Engenharia Química	B	integral
+161	3090	100	Engenharia Química B	B	integral
+162	3090	200	Engenharia Química C	B	integral
+163	3091	0	Grande Área - Engenharia Química	S	integral
+164	3091	100	Curso Cooperativo - Engenharia Química	I	integral
+165	3091	110	Habilitação: Engenharia Química	I	integral
+166	3091	200	Núcleo Comum - Materiais	O	integral
+167	3092	3000	Habilitação: Engenharia Química	I	integral
+168	3100	0	Engenharia de Materiais	B	integral
+169	3101	0	Habilitação: Engenharia de Materiais	I	integral
+170	3102	3000	Habilitação: Engenharia de Materiais	I	integral
+171	3110	0	Engenharia Mecânica - Habilitação: Automação e Sistemas	B	integral
+172	3111	0	Habilitação: Engenharia Mecatrônica	I	integral
+173	3112	3000	Habilitação: Engenharia Mecatrônica	I	integral
+174	3120	0	Curso Cooperativo - Engenharia de Computação	B	integral
+175	3121	0	Habilitação: Engenharia de Computação	I	integral
+176	3121	10	Habilitação: Engenharia de Computação	I	integral
+177	3122	3000	Habilitação: Engenharia de Computação	I	integral
+178	3130	0	Curso Cooperativo - Engenharia de Produção	B	integral
+179	3140	0	Curso Cooperativo - Engenharia Química	B	integral
+180	3150	0	Engenharia Ambiental	I	integral
+181	3151	3000	Habilitação: Engenharia Ambiental	I	integral
+182	3160	4	Engenharia Elétrica	B	noturno
+183	3170	3000	Habilitação: Engenharia de Computação - Ênfase Sistemas Corporativos	B	integral
+184	3200	0	Ciclo Básico - Materiais / Metalúrgica	U	integral
+185	5010	0	Medicina Tradicional	B	integral
+186	5020	0		B	integral
+187	5030	0	Medicina	B	integral
+188	5040	0	Medicina	B	integral
+189	5041	0	Medicina	B	integral
+190	5042	0	Medicina	B	integral
+191	5043	0	Medicina	B	integral
+192	5050	0	Fisioterapia	B	integral
+193	5051	0	Fisioterapia	B	integral
+194	5052	0	Fisioterapia	B	integral
+195	5060	0		B	integral
+196	5061	0	Fonoaudiologia	B	integral
+197	5062	0	Fonoaudiologia	B	integral
+198	5063	0	Fonoaudiologia	B	integral
+199	5064	0	Fonoaudiologia	B	integral
+200	5070	0	Terapia Ocupacional	B	integral
+201	5071	0	Terapia Ocupacional	B	integral
+202	5072	0	Terapia Ocupacional	B	integral
+203	6000	100	Habilitação em Enfermagem de Saúde Pública	B	integral
+204	6000	102	Habilitação em Enfermagem de Saúde Pública	B	matutino
+205	6010	0	Nutrição	B	integral
+206	6010	2	Nutrição	B	matutino
+207	6010	4	Nutrição	B	noturno
+208	6011	2	Nutrição	B	matutino
+209	6011	4	Nutrição	B	noturno
+210	6020	3	Bacharelado em Saúde Pública	B	vespertino
+211	7010	0	Enfermagem	G	integral
+212	7010	200	Enfermagem	G	integral
+213	7010	300	Obstetrícia	H	integral
+214	7010	400	Habilitação em Enfermagem Médico-Cirúrgica	H	integral
+215	7010	500	Habilitação em Enfermagem de Saúde Pública	H	integral
+216	7010	600	Habilitação em Enfermagem Obstétrica	H	integral
+217	7010	700	Licenciatura em Enfermagem	L	integral
+218	7010	800	Licenciatura em Enfermagem	L	integral
+219	7011	0	Enfermagem	G	integral
+220	7011	200	Licenciatura em Enfermagem	L	integral
+221	7011	300	Licenciatura em Enfermagem	L	integral
+222	7012	0	Enfermagem	G	integral
+223	7012	100	Licenciatura em Enfermagem	L	integral
+224	8010	101	Bacharelado em Filosofia	G	diurno
+225	8010	103	Bacharelado em Filosofia	G	vespertino
+226	8010	104	Bacharelado em Filosofia	G	noturno
+227	8010	200	Licenciatura em Filosofia	L	integral
+228	8020	101	Bacharelado em Geografia	G	diurno
+229	8020	104	Bacharelado em Geografia	G	noturno
+230	8020	200	Licenciatura em Geografia	L	integral
+231	8021	101	Bacharelado em Geografia	G	diurno
+232	8021	104	Bacharelado em Geografia	G	noturno
+233	8021	200	Licenciatura em Geografia	L	integral
+234	8030	101	Bacharelado em História	G	diurno
+235	8030	103	Bacharelado em História	G	vespertino
+236	8030	104	Bacharelado em História	G	noturno
+237	8030	200	Licenciatura em História	L	integral
+238	8040	101	Bacharelado em Ciências Sociais	G	diurno
+239	8040	103	Bacharelado em Ciências Sociais	G	vespertino
+240	8040	104	Bacharelado em Ciências Sociais	G	noturno
+241	8040	200	Licenciatura em Ciências Sociais	L	integral
+242	8050	101	Bacharelado - Habilitação: Português	P	diurno
+243	8050	102	Bacharelado - Habilitação: Português	P	matutino
+244	8050	104	Bacharelado - Habilitação: Português	P	noturno
+245	8050	201	Bacharelado - Habilitação: Latim	G	diurno
+246	8050	202	Bacharelado - Habilitação: Latim	G	matutino
+247	8050	204	Bacharelado - Habilitação: Latim	G	noturno
+248	8050	301	Bacharelado - Habilitação: Grego	G	diurno
+249	8050	302	Bacharelado - Habilitação: Grego	G	matutino
+250	8050	304	Bacharelado - Habilitação: Grego	G	noturno
+251	8050	401	Bacharelado - Habilitação: Alemão	G	diurno
+252	8050	402	Bacharelado - Habilitação: Alemão	G	matutino
+253	8050	404	Bacharelado - Habilitação: Alemão	G	noturno
+254	8050	501	Bacharelado - Habilitação: Espanhol	G	diurno
+255	8050	502	Bacharelado - Habilitação: Espanhol	G	matutino
+256	8050	504	Bacharelado - Habilitação: Espanhol	G	noturno
+257	8050	601	Bacharelado - Habilitação: Francês	G	diurno
+258	8050	602	Bacharelado - Habilitação: Francês	G	matutino
+259	8050	604	Bacharelado - Habilitação: Francês	G	noturno
+260	8050	701	Bacharelado - Habilitação: Inglês	G	diurno
+261	8050	702	Bacharelado - Habilitação: Inglês	G	matutino
+262	8050	704	Bacharelado - Habilitação: Inglês	G	noturno
+263	8050	801	Bacharelado - Habilitação: Italiano	G	diurno
+264	8050	802	Bacharelado - Habilitação: Italiano	G	matutino
+265	8050	804	Bacharelado - Habilitação: Italiano	G	noturno
+266	8050	901	Bacharelado - Habilitação: Russo	G	diurno
+267	8050	902	Bacharelado - Habilitação: Russo	G	matutino
+268	8050	904	Bacharelado - Habilitação: Russo	G	noturno
+269	8050	1001	Bacharelado - Habilitação: Árabe	G	diurno
+270	8050	1002	Bacharelado - Habilitação: Árabe	G	matutino
+271	8050	1004	Bacharelado - Habilitação: Árabe	G	noturno
+272	8050	1101	Bacharelado - Habilitação: Armênio	G	diurno
+273	8050	1102	Bacharelado - Habilitação: Armênio	G	matutino
+274	8050	1104	Bacharelado - Habilitação: Armênio	G	noturno
+275	8050	1201	Bacharelado - Habilitação: Chinês	G	diurno
+276	8050	1202	Bacharelado - Habilitação: Chinês	G	matutino
+277	8050	1204	Bacharelado - Habilitação: Chinês	G	noturno
+278	8050	1301	Bacharelado - Habilitação: Hebraico	G	diurno
+279	8050	1302	Bacharelado - Habilitação: Hebraico	G	matutino
+280	8050	1304	Bacharelado - Habilitação: Hebraico	G	noturno
+281	8050	1401	Bacharelado - Habilitação: Japonês	G	diurno
+282	8050	1402	Bacharelado - Habilitação: Japonês	G	matutino
+283	8050	1404	Bacharelado - Habilitação: Japonês	G	noturno
+284	8050	1501	Bacharelado - Habilitação: Sânscrito	G	diurno
+285	8050	1502	Bacharelado - Habilitação: Sânscrito	G	matutino
+286	8050	1504	Bacharelado - Habilitação: Sânscrito	G	noturno
+287	8050	1600	Licenciatura em Letras	L	integral
+288	8050	1610	Licenciatura em Letras	L	integral
+289	8050	1703	Modalidade Tradução - Ciclo Básico	U	vespertino
+290	8050	1713	Modalidade Tradução: Italiano	G	vespertino
+291	8050	1723	Modalidade Tradução: Francês	G	vespertino
+292	8050	1733	Modalidade Tradução: Inglês	G	vespertino
+293	8050	1743	Modalidade Tradução: Alemão	G	vespertino
+294	8050	1753	Modalidade Tradução: Espanhol	G	vespertino
+295	8050	1801	Bacharelado - Habilitação: Lingüística	G	diurno
+296	8050	1802	Bacharelado - Habilitação: Linguística	G	matutino
+297	8050	1804	Bacharelado - Habilitação: Linguística	G	noturno
+298	8051	102	Letras - Ciclo Básico	U	matutino
+299	8051	104	Letras - Ciclo Básico	U	noturno
+300	8051	202	Bacharelado - Habilitação: Português	P	matutino
+301	8051	204	Bacharelado - Habilitação: Português	P	noturno
+302	8051	302	Bacharelado - Habilitação: Latim	I	matutino
+303	8051	304	Bacharelado - Habilitação: Latim	I	noturno
+304	8051	402	Bacharelado - Habilitação: Grego	I	matutino
+305	8051	404	Bacharelado - Habilitação: Grego	I	noturno
+306	8051	502	Bacharelado - Habilitação: Alemão	I	matutino
+307	8051	504	Bacharelado - Habilitação: Alemão	I	noturno
+308	8051	602	Bacharelado - Habilitação: Espanhol	I	matutino
+309	8051	604	Bacharelado - Habilitação: Espanhol	I	noturno
+310	8051	702	Bacharelado - Habilitação: Francês	I	matutino
+311	8051	704	Bacharelado - Habilitação: Francês	I	noturno
+312	8051	802	Bacharelado - Habilitação: Inglês	I	matutino
+313	8051	804	Bacharelado - Habilitação: Inglês	I	noturno
+314	8051	902	Bacharelado - Habilitação: Italiano	I	matutino
+315	8051	904	Bacharelado - Habilitação: Italiano	I	noturno
+316	8051	1002	Bacharelado - Habilitação: Russo	I	matutino
+317	8051	1102	Bacharelado - Habilitação: Árabe	I	matutino
+318	8051	1202	Bacharelado - Habilitação: Armênio	I	matutino
+319	8051	1302	Bacharelado - Habilitação: Chinês	I	matutino
+320	8051	1404	Bacharelado - Habilitação: Hebraico	I	noturno
+321	8051	1502	Bacharelado - Habilitação: Japonês	I	matutino
+322	8051	1504	Bacharelado - Habilitação: Japonês	I	noturno
+323	8051	1600	Licenciatura em Letras	L	integral
+324	8051	1602	Bacharelado - Habilitação: Linguística	I	matutino
+325	8051	1604	Bacharelado - Habilitação: Linguística	I	noturno
+326	8051	1610	Licenciatura em Letras	L	integral
+327	8051	1702	Bacharelado - Habilitação: Coreano	I	matutino
+328	8051	2302	Bacharelado - Habilitação: Português e Latim	I	matutino
+329	8051	2304	Bacharelado - Habilitação: Português e Latim	I	noturno
+330	8051	2402	Bacharelado - Habilitação: Português e Grego	I	matutino
+331	8051	2404	Bacharelado - Habilitação: Português e Grego	I	noturno
+332	8051	2502	Bacharelado - Habilitação: Português e Alemão	I	matutino
+333	8051	2504	Bacharelado - Habilitação: Português e Alemão	I	noturno
+334	8051	2602	Bacharelado - Habilitação: Português e Espanhol	I	matutino
+335	8051	2604	Bacharelado - Habilitação: Português e Espanhol	I	noturno
+336	8051	2702	Bacharelado - Habilitação: Português e Francês	I	matutino
+337	8051	2704	Bacharelado - Habilitação: Português e Francês	I	noturno
+338	8051	2802	Bacharelado - Habilitação: Português e Inglês	I	matutino
+339	8051	2804	Bacharelado - Habilitação: Português e Inglês	I	noturno
+340	8051	2902	Bacharelado - Habilitação: Português e Italiano	I	matutino
+341	8051	2904	Bacharelado - Habilitação: Português e Italiano	I	noturno
+342	8051	3002	Bacharelado - Habilitação: Português e Russo	I	matutino
+343	8051	3102	Bacharelado - Habilitação: Português e Árabe	I	matutino
+344	8051	3202	Bacharelado - Habilitação: Português e Armênio	I	matutino
+345	8051	3302	Bacharelado - Habilitação: Português e Chinês	I	matutino
+346	8051	3404	Bacharelado - Habilitação: Português e Hebraico	I	noturno
+347	8051	3502	Bacharelado - Habilitação: Português e Japonês	I	matutino
+348	8051	3504	Bacharelado - Habilitação: Português e Japonês	I	noturno
+349	8051	3602	Bacharelado - Habilitação: Português e Linguística	I	matutino
+350	8051	3604	Bacharelado - Habilitação: Português e Linguística	I	noturno
+351	8051	3702	Bacharelado - Habilitação: Português e Coreano	I	matutino
+352	8051	6202	Licenciatura - Habilitação: Português	L	matutino
+353	8051	6204	Licenciatura - Habilitação: Português	L	noturno
+354	8051	6302	Licenciatura - Habilitação: Latim	L	matutino
+355	8051	6304	Licenciatura - Habilitação: Latim	L	noturno
+356	8051	6402	Licenciatura - Habilitação: Grego	L	matutino
+357	8051	6404	Licenciatura - Habilitação: Grego	L	noturno
+358	8051	6502	Licenciatura - Habilitação: Alemão	L	matutino
+359	8051	6504	Licenciatura - Habilitação: Alemão	L	noturno
+360	8051	6602	Licenciatura - Habilitação: Espanhol	L	matutino
+361	8051	6604	Licenciatura - Habilitação: Espanhol	L	noturno
+362	8051	6702	Licenciatura - Habilitação: Francês	L	matutino
+363	8051	6704	Licenciatura - Habilitação: Francês	L	noturno
+364	8051	6802	Licenciatura - Habilitação: Inglês	L	matutino
+365	8051	6804	Licenciatura - Habilitação: Inglês	L	noturno
+366	8051	6902	Licenciatura - Habilitação: Italiano	L	matutino
+367	8051	6904	Licenciatura - Habilitação: Italiano	L	noturno
+368	8051	7002	Licenciatura - Habilitação: Russo	L	matutino
+369	8051	7102	Licenciatura - Habilitação: Árabe	L	matutino
+370	8051	7202	Licenciatura - Habilitação: Armênio	L	matutino
+371	8051	7302	Licenciatura - Habilitação: Chinês	L	matutino
+372	8051	7404	Licenciatura - Habilitação: Hebraico	L	noturno
+373	8051	7502	Licenciatura - Habilitação: Japonês	L	matutino
+374	8051	7504	Licenciatura - Habilitação: Japonês	L	noturno
+375	8051	7602	Licenciatura - Habilitação: Linguística	L	matutino
+376	8051	7604	Licenciatura - Habilitação: Linguística	L	noturno
+377	8051	7702	Licenciatura - Habilitação: Coreano	L	matutino
+378	8051	8302	Licenciatura - Habilitações: Português e Latim	L	matutino
+379	8051	8304	Licenciatura - Habilitação: Português e Latim	L	noturno
+380	8051	8402	Licenciatura - Habilitação: Português e Grego	L	matutino
+381	8051	8404	Licenciatura - Habilitação: Português e Grego	L	noturno
+382	8051	8502	Licenciatura - Habilitação: Português e Alemão	L	matutino
+383	8051	8504	Licenciatura - Habilitação: Português e Alemão	L	noturno
+384	8051	8602	Licenciatura - Habilitação: Português e Espanhol	L	matutino
+385	8051	8604	Licenciatura - Habilitação: Português e Espanhol	L	noturno
+386	8051	8702	Licenciatura - Habilitações: Português e Francês	L	matutino
+387	8051	8704	Licenciatura - Habilitações: Português e Francês	L	noturno
+388	8051	8802	Licenciatura - Habilitação: Português e Inglês	L	matutino
+389	8051	8804	Licenciatura - Habilitação: Português e Inglês	L	noturno
+390	8051	8902	Licenciatura - Habilitação: Português e Italiano	L	matutino
+391	8051	8904	Licenciatura - Habilitação: Português e Italiano	L	noturno
+392	8051	9002	Licenciatura - Habilitação: Português e Russo	L	matutino
+393	8051	9102	Licenciatura - Habilitação: Português e Árabe	L	matutino
+394	8051	9202	Licenciatura - Habilitação: Português e Armênio	L	matutino
+395	8051	9302	Licenciatura - Habilitação: Português e Chinês	L	matutino
+396	8051	9404	Licenciatura - Habilitação: Português e Hebraico	L	noturno
+397	8051	9502	Licenciatura - Habilitação: Português e Japonês	L	matutino
+398	8051	9504	Licenciatura - Habilitação: Português e Japonês	L	noturno
+399	8051	9602	Licenciatura - Habilitação: Português e Linguística	L	matutino
+400	8051	9604	Licenciatura - Habilitação: Português e Linguística	L	noturno
+401	8051	9702	Licenciatura - Habilitação: Português e Coreano	L	matutino
+402	8060	1	Bacharelado em Letras - Habilitação:Lingüística	G	diurno
+403	8060	2	Bacharelado em Letras - Habilitação:Lingüística	G	matutino
+404	8060	4	Bacharelado em Letras - Habilitação:Lingüística	G	noturno
+405	8060	100	Licenciatura	L	integral
+406	9010	100	Nucleo Geral	U	integral
+407	9010	104	Nucleo Geral	U	noturno
+408	9010	200	Farmácia	I	integral
+409	9010	201	Farmácia	I	diurno
+410	9010	204	Farmaceutico	I	noturno
+411	9010	301	Modalidade Industrial	I	diurno
+412	9010	304	Modalidade Industrial	I	noturno
+413	9010	401	Modalidade Saúde Pública	I	diurno
+414	9010	404	Modalidade Saúde Pública	I	noturno
+415	9011	100	Núcleo Geral	U	integral
+416	9011	104	Núcleo Geral	U	noturno
+417	9011	200	Modalidade Fármaco e Medicamento	I	integral
+418	9011	204	Modalidade Fármaco e Medicamento	I	noturno
+419	9011	300	Modalidade Alimentos	I	integral
+420	9011	304	Modalidade Alimentos	I	noturno
+421	9011	400	Modalidade Análises Clínicas e Toxicológicas	I	integral
+422	9011	404	Modalidade Análises Clínicas e Toxicológicas	I	noturno
+423	9012	100	Farmácia - Bioquímica	B	integral
+424	9012	104	Farmácia - Bioquímica	B	noturno
+425	10010	0	Medicina Veterinária	B	integral
+426	10011	0	Medicina Veterinária	B	integral
+427	10020	0		B	integral
+428	11010	0	Engenharia Agronômica	G	integral
+429	11020	0	Engenharia Florestal	G	integral
+430	11030	0	Economia Doméstica	B	integral
+431	11040	0	Licenciatura em Ciências Agrárias	L	integral
+432	11040	4	Licenciatura em Ciências Agrárias	L	noturno
+433	11050	0	Ciências Econômicas	B	integral
+434	11050	1	Ciências Econômicas	B	diurno
+435	11060	4	Ciências dos Alimentos	B	noturno
+436	11061	4	Ciências dos Alimentos	B	noturno
+437	11070	4	Ciências Biológicas	G	noturno
+438	11070	104	Licenciatura em Ciências Biológicas	N	noturno
+439	11080	4	Gestão Ambiental	B	noturno
+440	11090	1	Bacharelado em Administração	B	diurno
+441	11100	0	Zootecnia	B	integral
+442	11110	4	Estatística	B	noturno
+443	12010	101	Administração - Ciclo Básico	U	diurno
+444	12010	102	Administração - Ciclo Básico	U	matutino
+445	12010	104	Administração - Ciclo Básico	U	noturno
+446	12010	112	Administração - Ciclo Básico	U	matutino
+447	12010	114	Administração - Ciclo Básico	U	noturno
+448	12010	121	Administração - Ciclo Básico	U	diurno
+449	12010	124	Administração - Ciclo Básico	U	noturno
+450	12010	202	Bacharelado em Administração - Habilitação Administração de Empresas	I	matutino
+451	12010	204	Bacharelado em Administração - Habilitação Administração de Empresas	I	noturno
+452	12010	211	Bacharelado em Administração - Habilitação Administração de Empresas	I	diurno
+453	12010	214	Bacharelado em Administração - Habilitação Administração de Empresas	I	noturno
+454	12010	302	Bacharelado em Administração - Habilitação Administração Pública	I	matutino
+455	12010	304	Bacharelado em Administração - Habilitação Administração Pública	I	noturno
+456	12010	311	Bacharelado em Administração - Habilitação Administração Pública	I	diurno
+457	12010	314	Bacharelado em Administração - Habilitação Administração Pública	I	noturno
+458	12011	1	Bacharelado em Administração	B	diurno
+459	12011	4	Bacharelado em Administração	B	noturno
+460	12012	1	Bacharelado em Administração	B	diurno
+461	12012	4	Bacharelado em Administração	B	noturno
+462	12020	102	Ciências Contábeis e Atuariais - Ciclo Básico	U	matutino
+463	12020	104	Ciências Contábeis e Atuariais - Ciclo Básico	U	noturno
+464	12020	111	Ciências Contábeis e Atuariais - Ciclo Básico	U	diurno
+465	12020	112	Ciências Contábeis e Atuariais - Ciclo Básico	U	matutino
+466	12020	114	Ciências Contábeis e Atuariais - Ciclo Básico	U	noturno
+467	12030	2	Ciências Contábeis	B	matutino
+468	12030	4	Ciências Contábeis	B	noturno
+469	12031	1	Ciências Contábeis	B	diurno
+470	12031	4	Ciências Contábeis	B	noturno
+471	12032	1	Bacharelado em Ciências Contábeis	B	diurno
+472	12032	4	Bacharelado em Ciências Contábeis	B	noturno
+473	12033	1	Bacharelado em Ciências Contábeis	B	diurno
+474	12033	4	Bacharelado em Ciências Contábeis	B	noturno
+475	12040	1	Ciências Atuariais	B	diurno
+476	12040	2	Ciências Atuariais	B	matutino
+477	12040	4	Ciências Atuariais	B	noturno
+478	12041	4	Ciências Atuariais	B	noturno
+479	12042	4	Bacharelado em Ciências Atuariais	B	noturno
+480	12050	1	Bacharelado em Ciências Econômicas	B	diurno
+481	12050	2	Bacharelado em Ciências Econômicas	B	matutino
+482	12050	4	Bacharelado em Ciências Econômicas	B	noturno
+483	12051	1	Bacharelado em Ciências Econômicas	B	diurno
+484	12051	2	Bacharelado em Ciências Econômicas	B	matutino
+485	12051	4	Bacharelado em Ciências Econômicas	B	noturno
+486	12060	4	Bacharelado em Administração - Habilitação em Administração de Empresas	B	noturno
+487	12061	4	Bacharelado em Administração - Habilitação em Administração de Empresas	B	noturno
+488	12062	4	Habilitação: Administração de Empresas	B	noturno
+489	12070	4	Bacharelado em Ciências Econômicas	B	noturno
+490	12071	4	Bacharelado em Ciências Econômicas	B	noturno
+491	12080	4	Bacharelado em Ciências Contábeis	B	noturno
+492	14010	0	Bacharelado em Meteorologia	B	integral
+493	14010	1	Bacharelado em Meteorologia	B	diurno
+494	14020	0	Bacharelado em Geofísica	B	integral
+495	14021	0	Bacharelado em Geofísica	B	integral
+496	14021	1	Bacharelado em Geofísica	B	diurno
+497	14030	0	Bacharelado em Astronomia	B	integral
+498	14030	1	Bacharelado em Astronomia	B	diurno
+499	14040	0	Bacharelado em Geofísica	B	integral
+500	16010	0	Arquitetura e Urbanismo	B	integral
+501	16011	0	Arquitetura e Urbanismo	B	integral
+502	16011	100	Dupla Formação FAU - EPUSP	H	integral
+503	16100	4	Design	B	noturno
+504	16100	104	Desenho Industrial	H	noturno
+505	16100	204	Projeto Visual	H	noturno
+506	17010	0	Medicina	B	integral
+507	17020	0	Bacharelado - Modalidade Medica	B	integral
+508	17030	100	Ciências Médicas - Ciclo Básico	U	integral
+509	17040	0	Bacharelado - Modalidade Médica	I	integral
+510	17050	0	Medicina	I	integral
+511	17100	4	Fisioterapia	B	noturno
+512	17200	4	Terapia Ocupacional	B	noturno
+513	17300	1	Fonoaudiologia	B	diurno
+514	17400	1	Nutrição e Metabolismo	B	diurno
+515	17500	100	Núcleo Geral	U	integral
+516	17500	200	Ênfase em Ciências Básicas da Saúde	I	integral
+517	17500	300	Ênfase em Biotecnologia em Saúde	I	integral
+518	18010	100	Engenharia - Ciclo Basico	U	integral
+519	18020	100	Nucleo Geral	U	integral
+520	18020	200	Enfase Hidraulica	I	integral
+521	18020	300	Enfase Estruturas	I	integral
+522	18020	400	Enfase Construcao de Edificios	I	integral
+523	18020	500	Enfase Mecanica dos Solos	I	integral
+524	18020	600	Enfase Transportes	I	integral
+525	18021	100	Engenharia Civil - Núcleo Geral	U	integral
+526	17300	0	Fonoaudiologia	B	integral
+527	18021	200	Enfase Transporte Aereo	I	integral
+528	18021	210	Enfase Transporte Aereo	I	integral
+529	18021	300	Enfase Mecanica dos Solos	I	integral
+530	18021	400	Enfase Estruturas	I	integral
+531	18021	500	Enfase Hidraulica	I	integral
+532	18021	600	Enfase Metalurgia	I	integral
+533	18022	0	Engenharia Civil	B	integral
+534	18023	0	Engenharia Civil	B	integral
+535	18023	100	Dupla Formação EESC - IAU	H	integral
+536	17400	0	Nutrição e Metabolismo	B	integral
+537	18030	0	Engenharia Ambiental	B	integral
+538	18040	100	Nucleo Geral	U	integral
+539	18040	200	Enfase Eletrotecnica	I	integral
+540	18040	300	Enfase Eletronica	I	integral
+541	18041	100	Engenharia Elétrica - Ciclo Básico	U	integral
+542	18041	200	Engenharia Elétrica - Ênfase Eletrotécnica	I	integral
+543	18041	300	Engenharia Elétrica - Ênfase Eletrônica	I	integral
+544	18041	400	Engenharia Elétrica - Ênfase Mecânica Fina	I	integral
+545	18023	200	Dupla Formação EESC - IAU	H	integral
+546	18041	500	Engenharia Elétrica - Mecatrônica	I	integral
+547	18042	100	Engenharia Elétrica - Núcleo Geral	U	integral
+548	18042	110	Engenharia Elétrica/Eletrotécnica	I	integral
+549	18042	120	Engenharia Elétrica/Eletrônica	I	integral
+550	18045	0	Ênfase em Eletrônica	B	integral
+551	18050	0	Ênfase em Sistemas de Energia e Automação	B	integral
+552	18060	100	Engenharia Mecânica - Núcleo Geral	U	integral
+553	18060	200	Engenharia Mecânica - Ênfase Metalurgia	I	integral
+554	18060	300	Engenharia Mecânica - Ênfase Termodinâmica Aplicada	I	integral
+555	18060	400	Engenharia Mecânica - Ênfase Máquinas e Sistemas	H	integral
+556	18061	100	Engenharia Mecânica - Núcleo Geral	U	integral
+557	18061	200	Engenharia Mecânica - Ênfase Aeronaves	I	integral
+558	18061	300	Engenharia Mecânica - Ênfase Mecânica Plena	I	integral
+559	18061	400	Engenharia Mecânica - Ênfase Mecânica Fina	I	integral
+560	18061	500	Engenharia Mecânica - Ênfase Máquinas Ferramentas	I	integral
+561	18061	600	Engenharia Mecânica - Ênfase Mecatrônica	I	integral
+562	18061	700	Engenharia Mecânica - Ênfase Materiais Metálicos	I	integral
+563	18062	100	Engenharia Mecânica - Núcleo Geral	U	integral
+564	18062	200	Ênfase Aeronaves	I	integral
+565	18062	300	Ênfase Mecânica Plena	I	integral
+566	18062	500	Ênfase Máquinas Ferramentas	I	integral
+567	18062	600	Ênfase Mecatrônica	I	integral
+568	18062	700	Ênfase Materiais Metálicos	I	integral
+569	18062	800	Ênfase Projetos	I	integral
+570	18070	0	Engenharia Aeronáutica	B	integral
+571	18080	0	Engenharia de Produção	B	integral
+572	18081	100	Ciclo Basico	U	integral
+573	18081	200	Mecanica	I	integral
+574	18082	0	Engenharia de Produção Mecânica	B	integral
+575	18083	0	Engenharia de Produção Mecânica	B	integral
+576	18084	0	Engenharia de Produção	B	integral
+577	25030	0	Medicina	B	integral
+578	18100	0	Arquitetura e Urbanismo	B	integral
+579	18101	0	Arquitetura e Urbanismo	B	integral
+580	18102	0	Arquitetura e Urbanismo	B	integral
+581	18103	0	Arquitetura e Urbanismo	B	integral
+582	18200	0	Engenharia de Computação	B	integral
+583	18250	0	Engenharia Mecatrônica	B	integral
+584	18300	0	Engenharia Hídrica	B	integral
+585	18350	0	Engenharia de Materiais e Manufatura	B	integral
+586	18400	0	Engenharia Química	B	integral
+587	18450	0	Engenharia de Conversão de Energia	B	integral
+588	21010	0	Bacharelado em Oceanografia	B	integral
+589	21020	0	Bacharelado em Oceanografia	B	integral
+590	22010	100	Enfermagem	U	integral
+591	22010	200	Habilitacao em Enfermagem de Saude Publica	I	integral
+592	22010	210	Habilitação em Enfermagem de Saúde Pública	I	integral
+593	22010	300	Habilitação em Enfermagem Médico-Cirúrgica	I	integral
+594	22010	400	Habilitação em Enfermagem Obstétrica e Ginecologica	I	integral
+595	22010	500	Habilitação em Enfermagem Psiquiátrica	I	integral
+596	22011	0	Enfermagem	G	integral
+597	22011	100	Licenciatura em Enfermagem	L	integral
+598	22012	0	Enfermagem	G	integral
+599	22012	100	Licenciatura	L	integral
+600	22013	0	Enfermagem	B	integral
+601	22100	4	Bacharelado e Licenciatura em Enfermagem	E	noturno
+602	23010	0	Odontologia	B	integral
+603	23010	1	Odontologia	B	diurno
+604	23010	4	Odontologia	B	noturno
+605	23011	0	Odontologia	B	integral
+606	23011	4	Odontologia	B	noturno
+607	25010	0	Odontologia	B	integral
+608	25011	0	Odontologia	B	integral
+609	25012	0	Odontologia	B	integral
+610	25013	0	Odontologia	B	integral
+611	25020	0	Fonoaudiologia	B	integral
+612	25021	0	Fonoaudiologia	B	integral
+613	25022	0	Fonoaudiologia	B	integral
+614	27010	102	Ciclo Básico	U	matutino
+615	27010	103	Ciclo Basico	U	vespertino
+616	27010	104	Ciclo Basico	U	noturno
+617	27010	112	Ciclo Basico	U	matutino
+618	27010	113	Ciclo Basico	U	vespertino
+619	27010	114	Ciclo Basico	U	noturno
+620	27010	200	Habilitacao em Cinema	I	integral
+621	27010	202	Habilitacao em Cinema	I	matutino
+622	27010	203	Habilitacao em Cinema	I	vespertino
+623	27010	303	Habilitacao em Editoracao	I	vespertino
+624	27010	304	Habilitacao em Editoracao	I	noturno
+625	27010	403	Habilitacao em Jornalismo	I	vespertino
+626	27010	503	Habilitação em Publicidade e Propaganda	I	vespertino
+627	27010	600	Habilitação em Radialismo (Radio e TV)	I	integral
+628	27010	602	Habilitação em Radialismo (Radio e TV)	I	matutino
+629	27010	603	Habilitação em Radialismo (Radio e TV)	I	vespertino
+630	27010	703	Habilitação em Relações Públicas	I	vespertino
+631	27010	704	Habilitação em Relações Públicas	I	noturno
+632	27011	201	Habilitação em Cinema	B	diurno
+633	27011	302	Habilitação em Editoração	B	matutino
+634	27011	402	Habilitação em Jornalismo	B	matutino
+635	27011	404	Habilitação em Jornalismo	B	noturno
+636	27011	502	Habilitação em Publicidade e Propaganda	B	matutino
+637	27011	504	Habilitação em Publicidade e Propaganda	B	noturno
+638	27011	601	Habilitação em Radialismo (Rádio e TV)	B	diurno
+639	27011	702	Habilitação em Relações Públicas	B	matutino
+640	27011	704	Habilitação em Relações Públicas	B	noturno
+641	27011	802	Habilitação em Redes e Comunicação Digital	B	matutino
+642	27020	1	Curso Superior do Audiovisual	B	diurno
+643	27021	1	Curso Superior do Audiovisual	B	diurno
+644	27100	302	Habilitação em Editoração	B	matutino
+645	27200	102	Ciclo Basico	U	matutino
+646	27200	103	Ciclo Basico	U	vespertino
+647	27200	104	Ciclo Basico	U	noturno
+648	27210	1	Habilitação em Artes Cênicas	E	diurno
+649	27210	2	Habilitação em Artes Cênicas	E	matutino
+650	27210	3	Habilitação em Artes Cênicas	E	vespertino
+651	27211	1	Licenciatura em Artes Cênicas	E	diurno
+652	27212	1	Licenciatura em Artes Cênicas	E	diurno
+653	27220	102	Ciclo Básico	U	matutino
+654	27220	103	Artes Cênicas - Bacharelado - Ciclo Básico	U	vespertino
+655	27110	2	Bacharelado em Relações Públicas	B	matutino
+656	27220	111	Artes Cênicas - Bacharelado - Ciclo Básico	U	diurno
+657	27220	201	Habilitação em Cenografia	I	diurno
+658	27220	202	Habilitação em Cenografia	I	matutino
+659	27220	203	Habilitação em Cenografia	I	vespertino
+660	27220	301	Habilitação em Direção Teatral	I	diurno
+661	27220	302	Habilitação em Direção Teatral	I	matutino
+662	27220	303	Habilitação em Direção Teatral	I	vespertino
+663	27302	101	Ciclo Básico	U	diurno
+664	27220	402	Habilitação em Dramaturgia e Crítica	I	matutino
+665	27220	403	Habilitação em Dramaturgia e Crítica	I	vespertino
+666	27220	501	Habilitação em Interpretação Teatral	I	diurno
+667	27220	502	Habilitação em Interpretação Teatral	I	matutino
+668	27220	601	Habilitação em Teoria do Teatro	I	diurno
+669	27220	602	Habilitação em Teoria do Teatro	I	matutino
+670	27221	111	Ciclo Básico	U	diurno
+671	27110	4	Bacharelado em Relações Públicas	B	noturno
+672	27221	201	Habilitação em Cenografia	I	diurno
+673	27221	301	Habilitação em Direção Teatral	I	diurno
+674	27221	501	Habilitação em Interpretação Teatral	I	diurno
+675	27221	601	Habilitação em Teoria do Teatro	I	diurno
+676	27222	111	Ciclo Básico	U	diurno
+677	27222	201	Habilitação em Cenografia	I	diurno
+678	27222	301	Habilitação em Direção Teatral	I	diurno
+679	27302	201	Artes Visuais - Bacharelado	I	diurno
+680	27222	501	Habilitação em Interpretação Teatral	I	diurno
+681	27222	601	Habilitação em Teoria do Teatro	I	diurno
+682	27223	101	Ciclo Básico	U	diurno
+683	27223	201	Artes Cênicas - Bacharelado	I	diurno
+684	27223	301	Artes Cênicas - Licenciatura	N	diurno
+685	27300	1	Ciclo Básico	U	diurno
+686	27301	101	Ciclo Básico	U	diurno
+687	27301	201	Licenciatura em Artes Visuais	N	diurno
+688	27301	301	Bacharelado em Artes Visuais - Habilitação em Escultura	I	diurno
+689	27301	401	Bacharelado em Artes Visuais - Habilitação em Gravura	I	diurno
+690	27301	501	Bacharelado em Artes Visuais - Habilitação em Multimídia e Intermídia	I	diurno
+691	27301	601	Bacharelado em Artes Visuais - Habilitação em Pintura	I	diurno
+692	27310	0	Habilitação em Artes Plásticas	N	integral
+693	27310	1	Licenciatura em Artes Plásticas	N	diurno
+694	27310	2	Habilitação em Artes Plásticas	N	matutino
+695	27310	3	Habilitação em Artes Plásticas	E	vespertino
+696	27320	101	Habilitação em Escultura	I	diurno
+697	27320	201	Habilitação em Gravura	I	diurno
+698	27320	301	Habilitação em Multimídia e Intermídia	I	diurno
+699	27320	401	Habilitação em Pintura	I	diurno
+700	27400	101	Ciclo Básico	U	diurno
+701	27410	100	Habilitação em Música	E	integral
+702	27410	101	Licenciatura em Música	N	diurno
+703	27421	2001	Habilitação em Instrumento de Sopro - Ênfase em Clarone	B	diurno
+704	27411	101	Licenciatura em Música	N	diurno
+705	27420	100	Habilitação em Composição	I	integral
+706	27420	101	Habilitação em Composição	I	diurno
+707	27420	200	Habilitação em Instrumento	I	integral
+708	27420	201	Habilitação em Instrumento	I	diurno
+709	27420	300	Habilitação em Regência	I	integral
+710	27420	301	Habilitação em Regência	I	diurno
+711	27420	401	Habilitação em Canto e Arte Lírica	I	diurno
+712	27421	11	Ciclo Básico em Composição e Regência	U	diurno
+713	27421	101	Habilitação em Composição	I	diurno
+714	27421	201	Habilitação em Regência	I	diurno
+715	27421	301	Habilitação em Canto e Arte Lírica	B	diurno
+716	27421	401	Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Violão	B	diurno
+717	27421	501	Habilitação em Instrumento de Cordas Dedilhadas - Ênfase em Viola Brasileira	B	diurno
+718	27421	601	Habilitação em Instrumento Percussão	B	diurno
+719	27421	2101	Habilitação em Instrumento de Cordas - Ênfase em Contrabaixo	B	diurno
+720	27421	701	Habilitação em Instrumento de Teclado - Ênfase em Piano	B	diurno
+721	27421	801	Habilitação em Instrumento de Teclado - Ênfase em Órgão	B	diurno
+722	27421	901	Habilitação em Instrumento de Cordas - Ênfase em Viola	B	diurno
+723	27421	1001	Habilitação em Instrumento de Cordas - Ênfase em Violino	B	diurno
+724	27421	1101	Habilitação em Instrumento de Cordas - Ênfase em Violoncelo	B	diurno
+725	27421	1201	Habilitação em Instrumento de Sopro - Ênfase em Flauta	B	diurno
+726	27421	1301	Habilitação em Instrumento de Sopro - Ênfase em Oboé	B	diurno
+727	27421	1401	Habilitação em Instrumento de Sopro - Ênfase em Clarinete	B	diurno
+728	27421	1501	Habilitação em Instrumento de Sopro - Ênfase em Fagote	B	diurno
+729	27421	1601	Habilitação em Instrumento de Sopro - Ênfase em Trompa	B	diurno
+730	27421	1701	Habilitação em Instrumento de Sopro - Ênfase em Trompete	B	diurno
+731	27421	1801	Habilitação em Instrumento de Sopro - Ênfase em Trombone	B	diurno
+732	27421	1901	Habilitação em Instrumento de Sopro - Ênfase em Tuba	B	diurno
+733	27430	4	Habilitação em Sonologia	B	noturno
+734	27460	101	Ciclo Básico - Ribeirão Preto	U	diurno
+735	27460	103	Música - Ciclo Básico - Ribeirão Preto	U	vespertino
+736	27460	104	Música - Ciclo Básico - Ribeirão Preto	U	noturno
+737	27470	101	Habilitação em Música	N	diurno
+738	27470	103	Habilitação em Música	I	vespertino
+739	27470	104	Habilitação em Música	I	noturno
+740	27480	201	Habilitação em Instrumento	I	diurno
+741	27480	203	Habilitação em Instrumento	I	vespertino
+742	27480	204	Habilitação em Instrumento	I	noturno
+743	27480	401	Habilitação em Canto e Arte Lírica	I	diurno
+744	27500	2	Biblioteconomia	B	matutino
+745	27500	3	Biblioteconomia	B	vespertino
+746	27500	4	Biblioteconomia	B	noturno
+747	27501	2	Biblioteconomia	B	matutino
+748	27501	4	Biblioteconomia	B	noturno
+749	27530	2	Turismo	B	matutino
+750	27530	3	Turismo	B	vespertino
+751	27530	4	Turismo	B	noturno
+752	27530	104	Ênfase em Organização e Administração de Empresa de Turismo	B	noturno
+753	27530	204	Ênfase em Planejamento em Turismo	B	noturno
+754	27531	4	Turismo	B	noturno
+755	27550	1	Bacharelado em Cinema e Vídeo	B	diurno
+756	27570	4	Licenciatura em Educomunicação	E	noturno
+757	27600	4	Habilitação em Tecnologia para Educação Musical	B	noturno
+758	27650	1	Teoria, História e Crítica de Arte	B	diurno
+759	27700	1	Bacharelado em Dança	B	diurno
+760	39010	0	Licenciatura	E	integral
+761	39011	0	Licenciatura em Educação Física	E	integral
+762	39020	100	Bacharelado em Educação Física	G	integral
+763	39020	200	Licenciatura em Educação Física	L	integral
+764	39021	100	Bacharelado em Educação Física	G	integral
+765	39021	200	Licenciatura em Educação Física	L	integral
+766	39022	100	Núcleo Geral	U	integral
+767	39022	200	Bacharelado em Educação Física	I	integral
+768	39022	300	Licenciatura em Educação Física	N	integral
+769	39030	0	Bacharelado em Esporte	B	integral
+770	39031	0	Bacharelado em Esporte	B	integral
+771	39032	0	Bacharelado em Esporte	B	integral
+772	39040	100	Núcleo Geral	U	integral
+773	39040	200	Bacharelado em Educação Física	I	integral
+774	39040	300	Licenciatura em Educação Física	N	integral
+775	39040	400	Bacharelado em Esporte	I	integral
+776	41010	100	Ciências Biológicas - Núcleo Geral	U	integral
+777	41010	101	Ciências Biológicas - Núcleo Geral	U	diurno
+778	41010	104	Ciências Biológicas - Núcleo Geral	U	noturno
+779	41010	200	Licenciatura em Ciências de 1o. Grau	M	integral
+780	41010	201	Licenciatura em Ciências de 1o. Grau	M	diurno
+781	41010	204	Licenciatura em Ciências de 1o. Grau	M	noturno
+782	41010	300	Licenciatura em Ciências Biológicas	N	integral
+783	41010	304	Licenciatura em Ciências Biológicas	N	noturno
+784	41010	310	Licenciatura em Ciências Biológicas	N	integral
+785	41010	311	Licenciatura em Ciências Biológicas	N	diurno
+786	41010	314	Licenciatura em Ciências Biológicas	N	noturno
+787	41010	400	Bacharelado em Ciências Biológicas	G	integral
+788	41010	404	Bacharelado em Ciências Biológicas	G	noturno
+789	41010	410	Bacharelado em Ciências Biológicas	G	integral
+790	41010	411	Bacharelado em Ciências Biológicas	G	diurno
+791	41010	414	Bacharelado em Ciências Biológicas	G	noturno
+792	41010	500	Bacharelado em Ciências Biológicas - Modalidade Botânica	H	integral
+793	41010	501	Bacharelado em Ciências Biológicas - Modalidade Botânica	H	diurno
+794	41010	504	Bacharelado em Ciências Biológicas - Modalidade Botânica	H	noturno
+795	41010	600	Bacharelado em Ciências Biológicas - Modalidade Biologia	H	integral
+796	41010	601	Bacharelado em Ciências Biológicas - Modalidade Biologia	H	diurno
+797	41010	604	Bacharelado em Ciências Biológicas - Modalidade Biologia	H	noturno
+798	41010	700	Bacharelado em Ciências Biológicas - Modalidade Fisiologia	H	integral
+799	41010	701	Bacharelado em Ciências Biológicas - Modalidade Fisiologia	H	diurno
+800	41010	704	Bacharelado em Ciências Biológicas - Modalidade Fisiologia	H	noturno
+801	41010	800	Bacharelado em Ciências Biológicas - Modalidade Zoologia	H	integral
+802	41010	801	Bacharelado em Ciências Biológicas - Modalidade Zoologia	H	diurno
+803	41010	804	Bacharelado em Ciências Biológicas - Modalidade Zoologia	H	noturno
+804	41011	100	Ciências Biológicas - Núcleo Geral	U	integral
+805	41011	104	Ciências Biológicas - Núcleo Geral	U	noturno
+806	41011	200	Bacharelado em Ciências Biológicas	I	integral
+807	41011	204	Bacharelado em Ciências Biológicas	I	noturno
+808	41011	300	Licenciatura em Ciências Biológicas	N	integral
+809	41011	304	Licenciatura em Ciências Biológicas	N	noturno
+810	41012	100	Ciências Biológicas - Núcleo Geral	U	integral
+811	41012	104	Ciências Biológicas - Núcleo Geral	U	noturno
+812	41012	200	Bacharelado em Ciências Biológicas	I	integral
+813	41012	204	Bacharelado em Ciências Biológicas	I	noturno
+814	41012	300	Licenciatura em Ciências Biológicas	N	integral
+815	41012	304	Licenciatura em Ciências Biológicas	N	noturno
+816	42010	0	Ciências Fundamentais para a Saúde	B	integral
+817	86550	201	Bacharelado em Biotecnologia	I	diurno
+818	42080	0	Bacharelado em Ciências Biomédicas	B	integral
+819	43010	101	Ciclo Básico	U	diurno
+820	43010	102	Ciclo Básico	U	matutino
+821	43010	104	Ciclo Básico	U	noturno
+822	43010	201	Licenciatura	L	diurno
+823	43010	202	Licenciatura	N	matutino
+824	43010	204	Licenciatura	N	noturno
+825	43010	301	Bacharelado	G	diurno
+826	43010	302	Bacharelado	G	matutino
+827	43010	304	Bacharelado	G	noturno
+828	43010	401	Bacharelado - Habilitação Física Aplicada e Instrumentação	H	diurno
+829	43010	404	Bacharelado - Habilitação Física Aplicada e Instrumentação	H	noturno
+830	43010	501	Bacharelado - Habilitação em Microeletrônica	H	diurno
+831	43011	101	Física - Ciclo Básico	U	diurno
+832	43011	104	Física - Ciclo Básico	U	noturno
+833	43011	201	Física - Licenciatura	N	diurno
+834	43011	204	Física - Licenciatura	N	noturno
+835	43011	301	Física - Bacharelado	G	diurno
+836	43011	304	Física - Bacharelado	G	noturno
+837	43020	11	Física Bacharelado - Ciclo Básico	U	diurno
+838	43020	14	Física Bacharelado - Ciclo Básico	U	noturno
+839	43020	101	Física Bacharelado	G	diurno
+840	43020	104	Física Bacharelado	G	noturno
+841	43020	201	Habilitação em Física Aplicada e Instrumentação	H	diurno
+842	43020	301	Habilitação em Microeletrônica	H	diurno
+843	43020	401	Habilitação em Pesquisa Básica em Física	H	diurno
+844	43020	404	Habilitação em Pesquisa Básica em Física	H	noturno
+845	43020	501	Habilitação em Oceanografia Física	H	diurno
+846	43020	601	Habilitação em Astronomia	H	diurno
+847	43021	101	Física Bacharelado	B	diurno
+848	43021	104	Física Bacharelado	B	noturno
+849	43030	1	Física Licenciatura	E	diurno
+850	43030	4	Física Licenciatura	E	noturno
+851	43031	1	Física Licenciatura	E	diurno
+852	43031	4	Física Licenciatura	E	noturno
+853	44010	100	Bacharelado em Geologia	G	integral
+854	44010	200	Licenciatura	L	integral
+855	44011	100	Geologia	G	integral
+856	44011	200	Licenciatura em Geologia	L	integral
+857	44020	0	Geologia	B	integral
+858	44100	4	Licenciatura em Geociências e Educação Ambiental	E	noturno
+859	45010	1	Matemática - Ciclo Básico	U	diurno
+860	45010	104	Matemática - Ciclo Básico	U	noturno
+861	45020	1	Matemática Licenciatura	E	diurno
+862	45021	1	Matemática Licenciatura	E	diurno
+863	45021	4	Matemática Licenciatura	E	noturno
+864	45022	4	Matemática Licenciatura	E	noturno
+865	45023	1	Matemática Licenciatura	E	diurno
+866	45023	4	Matemática Licenciatura	E	noturno
+867	45024	1	Matemática Licenciatura	E	diurno
+868	45024	4	Matemática Licenciatura	E	noturno
+869	45030	1	Matemática Pura Bacharelado	I	diurno
+870	45030	3	Matemática Pura Bacharelado	I	vespertino
+871	45031	1	Matemática Bacharelado	I	diurno
+872	45031	2	Matemática Bacharelado	I	matutino
+873	45040	1	Matemática Aplicada - Bacharelado	I	diurno
+874	86550	101	Bacharelado em Biotecnologia - Ciclo Básico	U	diurno
+875	45070	1004	Habilitação em Atuária	I	noturno
+876	47011	4	Psicólogo	J	noturno
+877	47011	104	Psicologia - Bacharelado	G	noturno
+878	45042	1	Matemática Aplicada - Bacharelado	U	diurno
+879	45042	101	Habilitação em Ciências Biológicas	I	diurno
+880	45042	501	Habilitação em Sistemas e Controle	I	diurno
+881	45042	611	Habilitação em Controle e Automação	I	diurno
+882	45042	801	Habilitação em Métodos Matemáticos	I	diurno
+883	45050	1	Bacharelado em Ciência da Computação	B	diurno
+884	45051	1	Bacharelado em Ciência da Computação	B	diurno
+885	45060	1	Estatística Bacharelado	I	diurno
+886	45061	1	Estatística Bacharelado	B	diurno
+887	45070	4	Bacharelado em Matemática Aplicada e Computacional	U	noturno
+888	45070	104	Habilitação em Ciências Biológicas	I	noturno
+889	45070	204	Habilitação em Fisiologia e Biofísica	I	noturno
+890	45070	304	Habilitação em Saúde Animal	I	noturno
+891	45070	404	Habilitação em Estatística Econômica	I	noturno
+892	45070	504	Habilitação em Sistemas e Controle	I	noturno
+893	45052	1	Bacharelado em Ciência da Computação	B	diurno
+894	45070	604	Habilitação em Mecatrônica e Sistemas Mecânicos	I	noturno
+895	45070	704	Habilitação em Comunicação Científica	I	noturno
+896	45070	804	Habilitação em Métodos Matemáticos	I	noturno
+897	45070	904	Habilitação em Saúde Pública	I	noturno
+898	46010	100	Química - Núcleo Geral	U	integral
+899	46010	200	Ênfase: Químico	H	integral
+900	46010	300	Licenciatura em Química	N	integral
+901	46010	400	Bacharelado em Química	G	integral
+902	46011	100	Química - Núcleo Geral	U	integral
+903	46011	200	Licenciatura em Química	N	integral
+904	46011	300	Bacharelado	G	integral
+905	46011	400	Bacharelado em Química - Opção Industrial	H	integral
+906	46011	500	Bacharelado em Química - Opção Biotecnologica	H	integral
+907	46012	100	Química - Núcleo Geral	U	integral
+908	46012	200	Licenciatura	N	integral
+909	46012	300	Bacharelado	G	integral
+910	46012	400	Bacharelado em Química com Atribuições Tecnológicas	H	integral
+911	46012	500	Bacharelado em Química com Atribuições em Biotecnologia	H	integral
+912	46012	600	Bacharelado em Química com Ênfase em Bioquímica e Biologia Molecular	H	integral
+913	46100	4	Bacharelado em Química Ambiental	B	noturno
+914	46101	4	Bacharelado em Química Ambiental	B	noturno
+915	46200	4	Licenciatura em Química	E	noturno
+916	46201	4	Licenciatura em Química	E	noturno
+917	46300	100	Núcleo Geral	U	integral
+918	46300	104	Núcleo Geral	U	noturno
+919	46300	200	Licenciatura	N	integral
+920	46300	204	Licenciatura	N	noturno
+921	46300	300	Bacharelado	G	integral
+922	46300	304	Bacharelado	G	noturno
+923	46300	400	Bacharelado em Química com Ênfase em Química Tecnológica	H	integral
+924	46300	500	Bacharelado em Química com Ênfase em Biotecnologia	H	integral
+925	46300	600	Bacharelado em Química com Ênfase em Bioquímica e Biologia Molecular	H	integral
+926	46300	704	Bacharelado em Química com Ênfase em Química Ambiental	H	noturno
+927	47010	0	Psicologia - Bacharelado	G	integral
+928	47010	100	Psicologia	J	integral
+929	47010	200	Psicologia - Licenciatura	L	integral
+930	47011	0	Psicólogo	J	integral
+931	47011	100	Psicologia - Bacharelado	G	integral
+932	47011	200	Psicologia - Licenciatura	L	integral
+933	47011	300	Psicologia - Licenciatura	L	integral
+934	48010	101	Núcleo Geral	U	diurno
+935	48010	102	Núcleo Geral	U	matutino
+936	48010	103	Núcleo Geral	U	vespertino
+937	48010	104	Núcleo Geral	U	noturno
+938	48010	201	Habilitação em Administração Escolar e Inspeção Escolar	I	diurno
+939	48010	202	Habilitação em Administração Escolar e Inspeção Escolar	I	matutino
+940	48010	203	Habilitação em Administração Escolar e Inspeção Escolar	I	vespertino
+941	48015	103	Pedagogia	E	vespertino
+942	48010	204	Habilitação em Administração Escolar e Inspeção Escolar	I	noturno
+943	48010	301	Habilitação Supervi Esc e Ensino das Discip e Ativ Práticas do Ensino do 1º Grau	I	diurno
+944	48010	302	Habilitação Supervi Esc e Ensino das Discip e Ativ Práticas do Ensino do 1º Grau	I	matutino
+945	48010	303	Hab. em Supervisão Escolar e Magistério das Matérias Pedagógicas do Ensino Médio	I	vespertino
+946	48010	304	Hab. em Supervisão Escolar e Magistério das Matérias Pedagógicas do Ensino Médio	I	noturno
+947	48015	104	Pedagogia	E	noturno
+948	48010	401	Habilitação em Orient Educ e Magist das Matérias Pedag do Ensino Médio	I	diurno
+949	48010	402	Habilitação em Orient Educ e Magist das Matérias Pedag do Ensino Médio	I	matutino
+950	48010	403	Hab. Orient. Educacional e Magistério das Matérias Pedagógicas do Ensino Médio	I	vespertino
+951	48010	404	Hab. Orient. Educacional e Magistério das Matérias Pedagógicas do Ensino Médio	I	noturno
+952	48010	503	Habilitação em Ensino de Deficientes Mentais	I	vespertino
+953	47011	304	Psicologia - Licenciatura	L	noturno
+954	48010	504	Habilitação em Ensino de Deficientes Mentais	I	noturno
+955	48010	603	Habilitação em Ensino de Deficientes Visuais	I	vespertino
+956	48010	604	Habilitação em Ensino de Deficientes Visuais	I	noturno
+957	48011	103	Habilitação em Magistério das Matérias Pedagógicas do Ensino Médio	G	vespertino
+958	48011	104	Habilitação em Magistério das Matérias Pedagógicas do Ensino Médio	G	noturno
+959	48011	203	Habilitação em Administração Escolar e Inspeção Escolar	H	vespertino
+960	48011	204	Habilitação em Administração Escolar e Inspeção Escolar	H	noturno
+961	48011	303	Habilitação em Supervisão Escolar	H	vespertino
+962	48011	304	Habilitação em Supervisão Escolar	H	noturno
+963	48011	403	Habilitação em Orientação Educacional	H	vespertino
+964	48011	404	Habilitação em Orientação Educacional	H	noturno
+965	48011	503	Habilitação em Deficientes Mentais	H	vespertino
+966	48011	504	Habilitação em Deficientes Mentais	H	noturno
+967	48011	603	Habilitação em Deficientes Visuais	H	vespertino
+968	48011	604	Habilitação em Deficientes Visuais	H	noturno
+969	48012	103	Habilitação em Magistério das Matérias Pedagógicas do Ensino Médio	B	vespertino
+970	48012	104	Habilitação em Magistério das Matérias Pedagógicas do Ensino Médio	B	noturno
+971	48012	203	Licenciatura Plena	E	vespertino
+972	48012	204	Licenciatura Plena	E	noturno
+973	48012	503	Habilitação em Deficientes Mentais	H	vespertino
+974	48012	504	Habilitação em Deficientes Mentais	H	noturno
+975	48012	603	Habilitação em Deficientes Visuais	H	vespertino
+976	48012	604	Habilitação em Deficientes Visuais	H	noturno
+977	48012	703	Habilitação Integrada: Administração, Supervisão e Orientação Escolar	H	vespertino
+978	48012	704	Habilitação Integrada: Administração, Supervisão e Orientação Escolar	H	noturno
+979	48013	103	Pedagogia	E	vespertino
+980	48013	104	Pedagogia	E	noturno
+981	48014	103	Pedagogia	E	vespertino
+982	48014	104	Pedagogia	E	noturno
+983	55010	0		B	integral
+984	55020	100	Matemática Pura Bacharelado - Núcleo Geral	U	integral
+985	55020	200	Matemática Pura Bacharelado	I	integral
+986	55021	0	Matemática Bacharelado	B	integral
+987	55030	100	Matemática - Núcleo Geral	U	integral
+988	55030	200	Bacharelado em Matemática	I	integral
+989	55030	300	Licenciatura em Matemática	N	integral
+990	55040	0	Bacharelado em Ciências de Computação	B	integral
+991	55041	0	Bacharelado em Ciências de Computação	B	integral
+992	55050	4	Bacharelado em Informática	B	noturno
+993	55051	4	Bacharelado em Sistemas de Informação	B	noturno
+994	55060	1	Bacharelado em Matemática Aplicada e Computação Científica	B	diurno
+995	55070	4	Bacharelado em Estatística	B	noturno
+996	59031	100	Psicólogo	G	integral
+997	58010	0	Odontologia	B	integral
+998	58011	0	Odontologia	B	integral
+999	58012	0	Odontologia	B	integral
+1000	59010	100	Ciências de 1o Grau -  Licenciatura	N	integral
+1001	59010	200	Licenciatura em Ciências Biológicas	N	integral
+1002	59010	300	Bacharelado em Ciências Biológicas	G	integral
+1003	59011	0	Ciências Biológicas - Núcleo Geral	U	integral
+1004	59011	100	Ciências Biológicas - Núcleo Geral	U	integral
+1005	59012	600	Bacharelado em Ciências Biológicas	H	integral
+1006	59011	200	Bacharelado em Ciências Biológicas	G	integral
+1007	59011	300	Licenciatura em Ciências Biológicas	N	integral
+1008	59011	310	Licenciatura em Ciências Biológicas	N	integral
+1009	59012	100	Núcleo Geral	U	integral
+1010	59012	200	Licenciatura	N	integral
+1011	59012	300	Bacharelado em Ciências Biológicas - Ênfase em Biologia Ambiental	H	integral
+1012	59012	400	Bacharelado em Ciências Biológicas - Ênfase em Biologia Evolutiva	H	integral
+1013	59012	500	Bacharelado em Ciências Biológicas - Ênfase em Biologia Molecular e Tecnológica	H	integral
+1014	59020	100	Licenciatura	N	integral
+1015	59020	200	Bacharelado	G	integral
+1016	59021	0	Química	G	integral
+1017	59021	1	Habilitação em Química Tecnológica	H	diurno
+1018	59021	100	Química - Núcleo Geral	U	integral
+1019	59021	200	Bacharelado em Química	G	integral
+1020	59021	300	Licenciatura em Química	N	integral
+1021	59250	200	Música - Bacharelado	I	integral
+1022	59021	400	Habilitação em Química Tecnológica	H	integral
+1023	59021	404	Habilitação em Química Tecnológica	H	noturno
+1024	59022	100	Núcleo Geral	U	integral
+1025	59022	200	Bacharelado em Química	G	integral
+1026	59022	300	Licenciatura em Química	N	integral
+1027	59022	404	Habilitação em Química Tecnológica	H	noturno
+1028	59023	100	Núcleo Geral	U	integral
+1029	59023	200	Bacharelado em Química	I	integral
+1030	59023	300	Bacharelado em Química - Habilitação em Química Ambiental	I	integral
+1031	59023	400	Bacharelado em Química - Habilitação em Química Forense	I	integral
+1032	59023	500	Bacharelado em Química - Habilitação em Química Tecnológica, Biotecnologia e Agroindústria	I	integral
+1033	59030	0	Psicologia	G	integral
+1034	59030	100	Bacharelado em Psicologia	G	integral
+1035	59030	200	Habilitação em pesquisa	H	integral
+1036	59030	300	Licenciatura em Psicologia	L	integral
+1037	59030	310	Licenciatura em Psicologia	L	integral
+1038	59030	400	Psicólogo	H	integral
+1039	59250	100	Núcleo Geral	U	integral
+1040	59040	4	Bacharelado em Física Médica	B	noturno
+1041	59050	4	Pedagogia	E	noturno
+1042	59051	4	Pedagogia	E	noturno
+1043	59052	4	Pedagogia	E	noturno
+1044	59060	4	Bacharelado em Biblioteconomia e Ciência da Informação	B	noturno
+1045	59070	4	Licenciatura em Química	E	noturno
+1046	59100	1	Bacharelado em Matemática Aplicada a Negócios	B	diurno
+1047	55071	4	Bacharelado em Estatística e Ciência de Dados	B	noturno
+1048	59110	1	Bacharelado em Matemática Aplicada a Negócios	B	diurno
+1049	59250	101	Núcleo Geral	U	diurno
+1050	59250	301	Música - Bacharelado - Habilitação em Instrumento	I	diurno
+1051	59250	401	Música - Bacharelado - Habilitação em Canto e Arte Lírica	I	diurno
+1052	59260	101	Habilitação em Música	E	diurno
+1053	60010	100	Farmácia - Núcleo Geral	U	integral
+1054	60010	200	Farmácia	I	integral
+1055	60010	300	Farmácia-Bioquímica (Análises Clínicas)	I	integral
+1056	60010	400	Farmácia - Industrial	I	integral
+1057	60011	100	Núcleo Geral	U	integral
+1058	60011	104	Núcleo Geral	U	noturno
+1059	60011	200	Modalidade Análises Clínicas e Toxicológicas	I	integral
+1060	60011	204	Modalidade Análises Clínicas e Toxicológicas	I	noturno
+1061	60011	300	Modalidade Fármaco e Medicamento	I	integral
+1062	60011	304	Modalidade Fármaco e Medicamento	I	noturno
+1063	60012	0	Farmácia - Bioquímica	B	integral
+1064	60012	4	Farmácia - Bioquímica	B	noturno
+1065	66001	4	Física Médica	B	noturno
+1066	71001	0	Bacharelado em Arqueologia	B	integral
+1067	74010	0		B	integral
+1068	74011	0	Zootecnia	B	integral
+1069	74012	0	Zootecnia	B	integral
+1070	74100	1	Engenharia de Alimentos	B	diurno
+1071	74100	4	Engenharia de Alimentos	B	noturno
+1072	74200	0	Medicina Veterinária	B	integral
+1073	74300	0	Engenharia de Biossistemas	B	integral
+1074	75010	0	Bacharelado em Química	B	integral
+1075	75011	100	Química - Núcleo Geral	U	integral
+1076	75011	200	Bacharelado Opção: Química Tecnológica	I	integral
+1077	75011	300	Bacharelado Opção: Química Fundamental	I	integral
+1078	75011	400	Licenciatura em Química	L	integral
+1079	76014	100	Física - Núcleo Geral	U	integral
+1080	75012	100	Química - Núcleo Geral	U	integral
+1081	75012	200	Bacharelado Opção: Química Tecnológica	I	integral
+1082	75012	300	Bacharelado Opção: Química Fundamental	I	integral
+1083	75012	400	Licenciatura em Química	E	integral
+1084	75013	100	Química - Núcleo Geral	U	integral
+1085	75013	200	Bacharelado em Química - Opção: Fundamental	I	integral
+1086	75013	300	Bacharelado em Química - Opção: Tecnológica	I	integral
+1087	75014	100	Química - Núcleo Geral	U	integral
+1088	75014	200	Bacharelado em Química - Habilitação: Fundamental	I	integral
+1089	75014	300	Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Alimentos	I	integral
+1090	75014	400	Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Ambiental	I	integral
+1091	75014	500	Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Gestão de Qualidade	I	integral
+1092	75014	600	Bacharelado em Química - Habilitação: Tecnológica - Ênfase: Materiais	I	integral
+1093	76010	100	Bacharelado	B	integral
+1094	76010	200	Bacharelado Nucleo Obrigatorio	U	integral
+1095	76011	100	Física - Núcleo Geral	U	integral
+1096	76011	200	Bacharelado Opção: Teórico-Experimental	I	integral
+1097	76011	300	Bacharelado Opção: Física Computacional	I	integral
+1098	76011	400	Licenciatura em Física	N	integral
+1099	76012	100	Física - Núcleo Geral	U	integral
+1100	76012	200	Licenciatura em Física	N	integral
+1101	76012	300	Opção: Física Teórico-Experimental	I	integral
+1102	76012	400	Opção: Física Computacional	I	integral
+1103	76013	100	Física - Núcleo Geral	U	integral
+1104	76013	200	Habilitação: Teórico-Experimental	I	integral
+1105	76013	300	Habilitação: Informática	I	integral
+1106	76013	400	Habilitação: Óptica e Fotônica	I	integral
+1107	81001	4	Habilitação em Administração de Empresas	B	noturno
+1108	81002	1	Bacharelado em Administração	B	diurno
+1109	81002	4	Bacharelado em Administração	B	noturno
+1110	81003	1	Bacharelado em Administração	B	diurno
+1111	81003	4	Bacharelado em Administração	B	noturno
+1112	81100	4	Bacharelado em Ciências Econômicas	B	noturno
+1113	81101	4	Bacharelado em Ciências Econômicas	B	noturno
+1114	81200	4	Ciências Contábeis	B	noturno
+1115	81300	1	Economia Empresarial e Controladoria	U	diurno
+1116	81300	101	Habilitação em Economia - Ênfase em Finanças	I	diurno
+1117	81300	201	Habilitação em Economia - Ênfase em Negócios Internacionais	I	diurno
+1118	81300	301	Habilitação em Economia - Ênfase em Políticas Públicas	I	diurno
+1119	81300	401	Habilitação em Contabilidade - Ênfase em Finanças	I	diurno
+1120	81301	1	Economia Empresarial e Controladoria	U	diurno
+1121	81300	501	Habilitação em Contabilidade - Ênfase em Negócios Internacionais	I	diurno
+1122	81300	601	Habilitação em Contabilidade - Ênfase em Políticas Públicas	I	diurno
+1123	86050	103	Bacharelado em Educação Física e Saúde - Ciclo Básico	U	vespertino
+1124	86050	203	Bacharelado em Educação Física e Saúde	I	vespertino
+1125	86100	102	Bacharelado em Gestão Ambiental - Ciclo Básico	U	matutino
+1126	86100	104	Bacharelado em Gestão Ambiental - Ciclo Básico	U	noturno
+1127	81301	101	Habilitação em Economia	I	diurno
+1128	86100	202	Bacharelado em Gestão Ambiental	I	matutino
+1129	86100	204	Bacharelado em Gestão Ambiental	I	noturno
+1130	86150	103	Bacharelado em Lazer e Turismo - Ciclo Básico	U	vespertino
+1131	86150	104	Bacharelado em Lazer e Turismo - Ciclo Básico	U	noturno
+1132	86150	203	Bacharelado em Lazer e Turismo	I	vespertino
+1133	86150	204	Bacharelado em Lazer e Turismo	I	noturno
+1134	86200	102	Bacharelado em Sistemas de Informação - Ciclo Básico	U	matutino
+1135	86200	104	Bacharelado em Sistemas de Informação - Ciclo Básico	U	noturno
+1136	86200	202	Bacharelado em Sistemas de Informação	I	matutino
+1137	86200	204	Bacharelado em Sistemas de Informação	I	noturno
+1138	86250	102	Bacharelado em Têxtil e Moda - Ciclo Básico	U	matutino
+1139	86250	103	Bacharelado em Têxtil e Moda - Ciclo Básico	U	vespertino
+1140	86250	202	Bacharelado em Têxtil e Moda	I	matutino
+1141	86250	203	Bacharelado em Têxtil e Moda	I	vespertino
+1142	86300	103	Gerontologia - Ciclo Básico	U	vespertino
+1143	86300	203	Gerontologia	I	vespertino
+1144	86350	102	Gestão de Políticas Públicas - Ciclo Básico	U	matutino
+1145	86350	104	Gestão de Políticas Públicas - Ciclo Básico	U	noturno
+1146	86350	202	Gestão de Políticas Públicas	I	matutino
+1147	86350	204	Gestão de Políticas Públicas	I	noturno
+1148	86400	102	Licenciatura em Ciências da Natureza - Ciclo Básico	U	matutino
+1149	86400	104	Licenciatura em Ciências da Natureza - Ciclo Básico	U	noturno
+1150	86400	202	Licenciatura em Ciências da Natureza	N	matutino
+1151	86400	204	Licenciatura em Ciências da Natureza	N	noturno
+1152	86450	102	Marketing - Ciclo Básico	U	matutino
+1153	86450	104	Marketing - Ciclo Básico	U	noturno
+1154	86450	202	Marketing	I	matutino
+1155	86450	204	Marketing	I	noturno
+1156	86500	103	Obstetrícia - Ciclo Básico	U	vespertino
+1157	86500	203	Obstetrícia	I	vespertino
+1158	86501	100	Obstetrícia - Ciclo Básico	U	integral
+1159	86501	200	Obstetrícia	I	integral
+1160	87001	1	Bacharelado em Relações Internacionais	B	diurno
+1161	87001	4	Bacharelado em Relações Internacionais	B	noturno
+1162	88050	1	Engenharia Química	B	diurno
+1163	88051	1	Engenharia Química	B	diurno
+1164	88052	1	Engenharia Química	B	diurno
+1165	88052	4	Engenharia Química	B	noturno
+1166	88100	4	Engenharia Industrial Química	B	noturno
+1167	88101	4	Engenharia Industrial Química	B	noturno
+1168	88150	0	Engenharia Bioquímica	B	integral
+1169	88151	0	Engenharia Bioquímica	B	integral
+1170	88152	0	Engenharia Bioquímica	B	integral
+1171	88200	0	Engenharia de Materiais	B	integral
+1172	88201	0	Engenharia de Materiais	B	integral
+1173	88202	0	Engenharia de Materiais	B	integral
+1174	88251	0	Engenharia Ambiental	B	integral
+1175	88301	0	Engenharia Física	B	integral
+1176	88351	4	Engenharia de Produção	B	noturno
+1177	88401	0	Engenharia Mecânica	B	integral
+1178	89001	0	Direito	B	integral
+1179	90010	104	Licenciatura em Ciências Exatas - Núcleo Geral	U	noturno
+1180	90010	204	Habilitação em Física	N	noturno
+1181	90010	304	Habilitação em Química	N	noturno
+1182	90010	404	Habilitação em Matemática	N	noturno
+1183	90011	104	Licenciatura em Ciências Exatas - Núcleo Geral	U	noturno
+1184	90011	204	Habilitação em Física	N	noturno
+1185	90011	304	Habilitação em Química	N	noturno
+1186	89002	0	Direito	B	integral
+1187	90011	404	Habilitação em Matemática	N	noturno
+1188	91010	0	Informática Biomédica	B	integral
+1189	91010	1	Informática Biomédica	B	diurno
+1190	91011	0	Informática Biomédica	B	integral
+1191	91011	1	Informática Biomédica	B	diurno
+1192	86050	101	Bacharelado em Educação Física e Saúde - Ciclo Básico	U	diurno
+1193	96001	1	Bacharelado em Matemática Aplicada a Negócios	B	diurno
+1194	17061	0	Informática Biomédica	B	integral
+1195	97001	0	Engenharia de Computação	B	integral
+1196	98001	100	Educação Física e Esporte - Ciclo Básico	U	integral
+1197	98001	200	Ênfase em Educação Física e Saúde	I	integral
+1198	98001	300	Ênfase em Esporte	I	integral
+1199	99001	0	Arquitetura e Urbanismo	B	integral
+1200	99100	104	Ciclo Básico	U	noturno
+1201	99100	204	Licenciatura em Geografia	I	noturno
+1202	99100	304	Bacharelado em Geografia	I	noturno
+1203	76041	0	Bacharelado em Física Computacional	B	integral
+1204	81301	201	Habilitação em Contabilidade	I	diurno
+1205	76014	300	Habilitação: Óptica e Fotônica	I	integral
+1206	59260	100	Habilitação em Música	N	integral
+1207	59250	700	Música - Bacharelado - Habilitação em Flauta	I	integral
+1208	59250	800	Música - Bacharelado - Habilitação em Percussão	I	integral
+1209	17060	0	Informática Biomédica	B	integral
+1210	59250	900	Música - Bacharelado - Habilitação em Viola Caipira	G	integral
+1211	59250	1000	Música - Bacharelado - Habilitação em Violoncelo	I	integral
+1212	76040	0	Bacharelado em Física Computacional	B	integral
+1213	76060	0	Bacharelado em Ciências Físicas e Biomoleculares	G	integral
+1214	76060	100	Ênfase Tecnológica	H	integral
+1215	60013	0	Farmácia - Bioquímica	B	integral
+1216	99001	100	Dupla Formação IAU - EESC	H	integral
+1217	99002	0	Arquitetura e Urbanismo	B	integral
+1218	3032	5020	Módulo: Tópicos de Engenharia Biomédica	H	integral
+1219	99002	100	Dupla Formação IAU - EESC	H	integral
+1220	76061	0	Bacharelado em Ciências Físicas e Biomoleculares	G	integral
+1221	76014	200	Habilitação: Teórico-Experimental	I	integral
+1222	6021	3	Bacharelado em Saúde Pública	B	vespertino
+1223	10012	0	Medicina Veterinária	B	integral
+1224	3032	5030	Módulo: Aprofundamento em Telecomunicações	H	integral
+1225	3032	5040	Módulo: Processamento Digital de Sinais	H	integral
+1226	3032	5050	Módulo: Telecomunicações	H	integral
+1227	3032	5060	Módulo: Tecnologia e Gestão em Engenharia de Computação	H	integral
+1228	76061	100	Ênfase Tecnológica	H	integral
+1229	59061	4	Bacharelado em Biblioteconomia e Ciência da Informação	B	noturno
+1230	86050	201	Bacharelado em Educação Física e Saúde	I	diurno
+1231	3180	3000	Habilitação: Engenharia da Complexidade	B	integral
+1232	59031	200	Bacharelado em Psicologia	H	integral
+1233	3032	5010	Módulo: Automação e Controle Avançados	H	integral
+1234	3032	5070	Módulo: Pesquisa em Engenharia de Computação (Pré-Mestrado)	H	integral
+1235	3032	5100	Módulo: Eletrônica e Sistemas (Pré-Mestrado)	H	integral
+1236	3022	5020	Módulo: Especialização em Engenharia Estrutural e Geotécnica	H	integral
+1237	3022	5030	Módulo: Recursos Hídricos	H	integral
+1238	3022	5040	Módulo: Obras Hidráulicas	H	integral
+1239	3022	5050	Módulo: Água e Meio Ambiente	H	integral
+1240	3022	5070	Módulo: Transportes	H	integral
+1241	3022	5080	Módulo: Planejamento, Gestão e Infraestrutura de Cidades	H	integral
+1242	3022	5100	Módulo: Inovação na Construção Civil (Pré-Mestrado)	H	integral
+1243	3032	5080	Módulo: Sistemas Eletrônicos Avançados	H	integral
+1244	3032	5090	Módulo: Fundamentos de Sistemas Eletrônicos	H	integral
+1245	3022	5110	Módulo: Ciência e Tecnologia da Engenharia Civil e Ambiental (Pré-Mestrado)	H	integral
+1246	3032	5130	Módulo: Telecomunicações e Área Correlatas (Pré-Mestrado)	H	integral
+1247	3032	5140	Módulo: Princípios de Engenharia de Computação	H	integral
+1248	3032	5110	Módulo: Especialização em Energia e Automação Elétricas	H	integral
+1249	3032	5120	Módulo: Tópicos em Energia e Automação Elétricas	H	integral
+1250	3044	5000	Módulo: Especialização em Engenharia Aeronáutica	H	integral
+1251	3044	5010	Módulo: Especialização em Engenharia Automotiva	H	integral
+1252	3044	5020	Módulo: Energia e Meio Ambiente	H	integral
+1253	3044	5030	Módulo: Energia Renováveis	H	integral
+1254	3044	5040	Módulo: Pesquisa em Engenharia Mecânica e Mecatrônica (Pré-Mestrado)	H	integral
+1255	3056	5000	Módulo: Exploração e Produção de Petróleo	H	integral
+1256	3062	5000	Módulo: Processamento de Materiais Cerâmicos e Poliméricos	H	integral
+1257	3062	5010	Módulo: Tecnologia Nuclear	H	integral
+1258	3072	5010	Módulo: Sistemas Navais e Oceânicos (Pré-Mestrado)	H	integral
+1259	3072	5000	Módulo: Planejamento e Desenvolvimento de Sistemas Navais  e Oceânicos	H	integral
+1260	3083	5000	Módulo: Gestão Estratégica da Produção e Inovação	H	integral
+1261	3102	5000	Módulo: Processamento de Materiais Metálicos	H	integral
+1262	27120	4	Bacharelado em Jornalismo	B	noturno
+1263	3112	5000	Módulo: Mecatrônica Avançada	H	integral
+1264	9013	104	Farmácia	B	noturno
+1265	3122	5000	Módulo: Tecnologia e Gestão em Engenharia de Computação	H	integral
+1266	3151	5000	Módulo: Indústrias Sustentáveis	H	integral
+1267	3151	5010	Módulo: Saneamento Ambiental	H	integral
+1268	59080	0	Bacharelado em Ciência da Computação	B	integral
+1269	27302	301	Artes Visuais - Licenciatura	N	diurno
+1270	27120	2	Bacharelado em Jornalismo	B	matutino
+1271	9013	100	Farmácia	B	integral
+1272	59250	300	Música - Bacharelado - Habilitação em Instrumento	I	integral
+1273	59250	400	Música - Bacharelado - Habilitação em Canto e Arte Lírica	I	integral
+1274	59250	500	Música - Bacharelado - Habilitação em Piano	I	integral
+1275	59250	600	Música - Bacharelado - Habilitação em Violão	I	integral
+1276	18063	0	Engenharia Mecânica	B	integral
+1277	88352	4	Engenharia de Produção	B	noturno
+1278	3052	5020	Módulo: Mineração	H	integral
+1279	60014	0	Farmácia	B	integral

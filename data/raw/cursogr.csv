@@ -1,0 +1,404 @@
+id	codcur	codclg	sglclg	nomcur
+1	1020	1	CG	Ciências Moleculares
+2	1050	1	CG	Bacharelado em Relações Internacionais
+3	1051	1	CG	Bacharelado em Relações Internacionais
+4	1080	1	CG	Licenciatura em Ciências
+5	3180	3	CG	Engenharia
+6	2010	2	CG	Direito
+7	2011	2	CG	Direito
+8	2012	2	CG	Direito
+9	2013	2	CG	Direito
+10	3010	3	CG	Engenharia - Ciclo Básico
+11	3011	3	CG	Engenharia
+12	3020	3	CG	Engenharia Civil
+13	3021	3	CG	Engenharia
+14	3022	3	CG	Engenharia
+15	3030	3	CG	Engenharia Elétrica
+16	3031	3	CG	Engenharia
+17	3032	3	CG	Engenharia
+18	3040	3	CG	Engenharia Mecânica
+19	3041	3	CG	Engenharia Mecânica
+20	3042	3	CG	Engenharia Mecânica
+21	3043	3	CG	Engenharia
+22	3044	3	CG	Engenharia
+23	3050	3	CG	Engenharia de Minas
+24	3051	3	CG	Engenharia
+25	3052	3	CG	Engenharia
+26	3055	3	CG	Engenharia
+27	3056	3	CG	Engenharia
+28	3060	3	CG	Engenharia Metalúrgica
+29	2014	2	CG	Direito
+30	3061	3	CG	Engenharia
+31	3062	3	CG	Engenharia
+32	3070	3	CG	Engenharia Naval
+33	3071	3	CG	Engenharia
+34	3072	3	CG	Engenharia
+35	3080	3	CG	Engenharia de Produção
+36	3081	3	CG	Engenharia de Produção
+37	3082	3	CG	Engenharia
+38	3083	3	CG	Engenharia
+39	3090	3	CG	Engenharia Química
+40	3091	3	CG	Engenharia
+41	3092	3	CG	Engenharia
+42	3100	3	CG	Engenharia de Materiais
+43	3101	3	CG	Engenharia
+44	3102	3	CG	Engenharia
+45	3110	3	CG	Engenharia Mecânica
+46	3111	3	CG	Engenharia
+47	3112	3	CG	Engenharia
+48	3120	3	CG	Curso Cooperativo - Engenharia de Computação
+49	3121	3	CG	Engenharia
+50	3122	3	CG	Engenharia
+51	3130	3	CG	Curso Cooperativo - Engenharia de Produção
+52	3140	3	CG	Curso Cooperativo - Engenharia Química
+53	3150	3	CG	Engenharia Ambiental
+54	3151	3	CG	Engenharia
+55	3160	3	CG	Engenharia Elétrica
+56	3170	3	CG	Engenharia
+57	3200	3	CG	Engenharia
+58	5010	5	CG	Medicina Tradicional
+59	5020	5	CG	Medicina Experimental
+60	5030	5	CG	Medicina
+61	5040	5	CG	Medicina
+62	5041	5	CG	Medicina
+63	5042	5	CG	Medicina
+64	5043	5	CG	Medicina
+65	5050	5	CG	Fisioterapia
+66	5051	5	CG	Fisioterapia
+67	5052	5	CG	Fisioterapia
+68	5060	5	CG	Fonoaudiologia
+69	5061	5	CG	Fonoaudiologia
+70	5062	5	CG	Fonoaudiologia
+71	5063	5	CG	Fonoaudiologia
+72	5064	5	CG	Fonoaudiologia
+73	5070	5	CG	Terapia Ocupacional
+74	5071	5	CG	Terapia Ocupacional
+75	5072	5	CG	Terapia Ocupacional
+76	6000	6	CG	Nutrição
+77	6010	6	CG	Nutrição
+78	6011	6	CG	Nutrição
+79	6020	6	CG	Bacharelado em Saúde Pública
+80	6021	6	CG	Bacharelado em Saúde Pública
+81	10012	10	CG	Medicina Veterinária
+82	7010	7	CG	Enfermagem
+83	7011	7	CG	Enfermagem
+84	7012	7	CG	Enfermagem
+85	8010	8	CG	Filosofia
+86	8020	8	CG	Geografia
+87	8021	8	CG	Geografia
+88	8030	8	CG	História
+89	8040	8	CG	Ciências Sociais
+90	8050	8	CG	Letras
+91	8051	8	CG	Letras
+92	8060	8	CG	Lingüística
+93	9010	9	CG	Farmácia
+94	9011	9	CG	Farmácia - Bioquímica
+95	9012	9	CG	Farmácia - Bioquímica
+96	10010	10	CG	Medicina Veterinária
+97	10011	10	CG	Medicina Veterinária
+98	10020	10	CG	Zootecnia
+99	11010	11	CG	Engenharia Agronômica
+100	11020	11	CG	Engenharia Florestal
+101	11030	11	CG	Economia Doméstica
+102	11040	11	CG	Licenciatura em Ciências Agrárias
+103	11050	11	CG	Ciências Econômicas
+104	11060	11	CG	Ciências dos Alimentos
+105	11061	11	CG	Ciências dos Alimentos
+106	11070	11	CG	Ciências Biológicas
+107	11080	11	CG	Gestão Ambiental
+108	11090	11	CG	Bacharelado em Administração
+109	11100	11	CG	Zootecnia
+110	11110	11	CG	Estatística
+111	12010	12	CG	Bacharelado em Administração
+112	12011	12	CG	Bacharelado em Administração
+113	12012	12	CG	Bacharelado em Administração
+114	12020	12	CG	Ciências Contábeis e Atuariais
+115	12030	12	CG	Ciências Contábeis
+116	12031	12	CG	Ciências Contábeis
+117	12032	12	CG	Bacharelado em Ciências Contábeis
+118	12033	12	CG	Bacharelado em Ciências Contábeis
+119	12040	12	CG	Ciências Atuariais
+120	12041	12	CG	Ciências Atuariais
+121	12042	12	CG	Bacharelado em Ciências Atuariais
+122	12050	12	CG	Bacharelado em Ciências Econômicas
+123	12051	12	CG	Bacharelado em Ciências Econômicas
+124	12060	12	CG	Bacharelado em Administração
+125	12061	12	CG	Bacharelado em Administração
+126	12062	12	CG	Bacharelado em Administração
+127	12070	12	CG	Bacharelado em Ciências Econômicas
+128	12071	12	CG	Bacharelado em Ciências Econômicas
+129	12080	12	CG	Bacharelado em Ciências Contábeis
+130	14010	14	CG	Bacharelado em Meteorologia
+131	14020	14	CG	Bacharelado em Geofísica
+132	14021	14	CG	Bacharelado em Geofísica
+133	14030	14	CG	Bacharelado em Astronomia
+134	14040	14	CG	Bacharelado em Geofísica - "Campus" de Santos
+135	16010	16	CG	Arquitetura e Urbanismo
+136	16011	16	CG	Arquitetura e Urbanismo
+137	16100	16	CG	Design
+138	17010	17	CG	Medicina
+139	17020	17	CG	Ciências Biológicas
+140	17030	17	CG	Ciências Médicas - Ciclo Básico
+141	17040	17	CG	Ciências Biológicas
+142	9013	9	CG	Farmácia
+143	17050	17	CG	Medicina
+144	17100	17	CG	Fisioterapia
+145	17200	17	CG	Terapia Ocupacional
+146	17300	17	CG	Fonoaudiologia
+147	17400	17	CG	Nutrição e Metabolismo
+148	17500	17	CG	Ciências Biomédicas
+149	18010	18	CG	Engenharia
+150	18020	18	CG	Engenharia Civil
+151	18021	18	CG	Engenharia Civil
+152	18022	18	CG	Engenharia Civil
+153	18023	18	CG	Engenharia Civil
+154	27110	27	CG	Bacharelado em Relações Públicas
+155	18030	18	CG	Engenharia Ambiental
+156	18040	18	CG	Engenharia Elétrica
+157	18041	18	CG	Engenharia Elétrica
+158	18042	18	CG	Engenharia Elétrica
+159	18045	18	CG	Engenharia Elétrica
+160	18050	18	CG	Engenharia Elétrica
+161	18060	18	CG	Engenharia Mecânica
+162	18061	18	CG	Engenharia Mecânica
+163	18062	18	CG	Engenharia Mecânica
+164	18070	18	CG	Engenharia Aeronáutica
+165	18080	18	CG	Engenharia de Produção
+166	18081	18	CG	Engenharia de Produção
+167	18082	18	CG	Engenharia de Produção Mecânica
+168	18083	18	CG	Engenharia de Produção Mecânica
+169	18084	18	CG	Engenharia de Produção
+170	27120	27	CG	Bacharelado em Jornalismo
+171	18100	18	CG	Arquitetura e Urbanismo
+172	18101	18	CG	Arquitetura e Urbanismo
+173	18102	18	CG	Arquitetura e Urbanismo
+174	18103	18	CG	Arquitetura e Urbanismo
+175	18200	18	CG	Engenharia de Computação
+176	18250	18	CG	Engenharia Mecatrônica
+177	18300	18	CG	Engenharia  Hídrica
+178	18350	18	CG	Engenharia de Materiais e Manufatura
+179	25030	25	CG	Medicina
+180	17060	17	CG	Informática Biomédica
+181	17061	17	CG	Informática Biomédica
+182	18400	18	CG	Engenharia Química
+183	18450	18	CG	Engenharia de Conversão de Energia
+184	21010	21	CG	Bacharelado em Oceanografia
+185	21020	21	CG	Bacharelado em Oceanografia - "Campus" de Santos
+186	22010	22	CG	Enfermagem
+187	22011	22	CG	Enfermagem
+188	22012	22	CG	Enfermagem
+189	22013	22	CG	Enfermagem
+190	22100	22	CG	Bacharelado e Licenciatura em Enfermagem
+191	23010	23	CG	Odontologia
+192	23011	23	CG	Odontologia
+193	25010	25	CG	Odontologia
+194	25011	25	CG	Odontologia
+195	25012	25	CG	Odontologia
+196	25013	25	CG	Odontologia
+197	25020	25	CG	Fonoaudiologia
+198	25021	25	CG	Fonoaudiologia
+199	25022	25	CG	Fonoaudiologia
+200	27010	27	CG	Comunicação Social
+201	27011	27	CG	Bacharelado em Comunicação Social
+202	27020	27	CG	Curso Superior do Audiovisual
+203	27021	27	CG	Curso Superior do Audiovisual
+204	27100	27	CG	Bacharelado em Comunicação Social
+205	27200	27	CG	Artes
+206	27210	27	CG	Educação Artística - Licenciatura
+207	27211	27	CG	Licenciatura em Artes Cênicas
+208	27212	27	CG	Licenciatura em Artes Cênicas
+209	27220	27	CG	Artes Cênicas - Bacharelado
+210	27221	27	CG	Artes Cênicas - Bacharelado
+211	27222	27	CG	Artes Cênicas - Bacharelado
+212	27223	27	CG	Artes Cênicas
+213	27300	27	CG	Artes Plásticas
+214	27301	27	CG	Artes Visuais
+215	27310	27	CG	Licenciatura em Artes Plásticas
+216	45052	45	CG	Bacharelado em Ciência da Computação
+217	59080	59	CG	Bacharelado em Ciência da Computação
+218	27302	27	CG	Artes Visuais
+219	18063	18	CG	Engenharia Mecânica
+220	27320	27	CG	Artes Plásticas - Bacharelado
+221	27400	27	CG	Música
+222	27410	27	CG	Licenciatura em Música
+223	27411	27	CG	Licenciatura em Música
+224	27420	27	CG	Música Bacharelado
+225	27421	27	CG	Música Bacharelado
+226	27430	27	CG	Música Bacharelado
+227	27460	27	CG	Música - ´Campus´ de Ribeirão Preto
+228	27470	27	CG	Educação Artística - Licenciatura - ´Campus´ de Ribeirão Preto
+229	27480	27	CG	Música - Bacharelado - ´Campus´ de Ribeirão Preto
+230	27500	27	CG	Biblioteconomia
+231	27501	27	CG	Biblioteconomia
+232	27530	27	CG	Turismo
+233	27531	27	CG	Turismo
+234	27550	27	CG	Bacharelado em Cinema e Vídeo
+235	27570	27	CG	Licenciatura em Educomunicação
+236	27600	27	CG	Licenciatura em Música
+237	27650	27	CG	Teoria, História e Crítica de Arte
+238	27700	27	CG	Bacharelado em Dança
+239	39010	39	CG	Educação Física
+240	39011	39	CG	Educação Física
+241	39020	39	CG	Educação Física
+242	39021	39	CG	Educação Física
+243	39022	39	CG	Educação Física
+244	39030	39	CG	Bacharelado em Esporte
+245	39031	39	CG	Bacharelado em Esporte
+246	39032	39	CG	Bacharelado em Esporte
+247	39040	39	CG	Educação Física e Esporte
+248	41010	41	CG	Ciências Biológicas
+249	41011	41	CG	Ciências Biológicas
+250	41012	41	CG	Ciências Biológicas
+251	42010	42	CG	Ciências Fundamentais para a Saúde
+252	42080	42	CG	Bacharelado em Ciências Biomédicas
+253	43010	43	CG	Física
+254	43011	43	CG	Física
+255	43020	43	CG	Física Bacharelado
+256	43021	43	CG	Física Bacharelado
+257	43030	43	CG	Física Licenciatura
+258	43031	43	CG	Física Licenciatura
+259	44010	44	CG	Geologia
+260	44011	44	CG	Geologia
+261	44020	44	CG	Geologia - "Campus" de Santos
+262	44100	44	CG	Licenciatura em Geociências e Educação Ambiental
+263	45010	45	CG	Matemática - Ciclo Básico
+264	45020	45	CG	Matemática Licenciatura
+265	45021	45	CG	Matemática Licenciatura
+266	45022	45	CG	Matemática Licenciatura
+267	45023	45	CG	Matemática Licenciatura
+268	45024	45	CG	Matemática Licenciatura
+269	45030	45	CG	Matemática Pura Bacharelado
+270	45031	45	CG	Matemática Bacharelado
+271	45040	45	CG	Matemática Aplicada Bacharelado
+272	45042	45	CG	Matemática Aplicada - Bacharelado
+273	45050	45	CG	Bacharelado em Ciência da Computação
+274	45051	45	CG	Bacharelado em Ciência da Computação
+275	45060	45	CG	Estatística Bacharelado
+276	45061	45	CG	Estatística Bacharelado
+277	45070	45	CG	Bacharelado em Matemática Aplicada e Computacional
+278	46010	46	CG	Química
+279	46011	46	CG	Química
+280	46012	46	CG	Química
+281	46100	46	CG	Bacharelado em Química Ambiental
+282	46101	46	CG	Bacharelado em Química Ambiental
+283	46200	46	CG	Licenciatura em Química
+284	46201	46	CG	Licenciatura em Química
+285	46300	46	CG	Química
+286	47010	47	CG	Psicologia
+287	47011	47	CG	Psicologia
+288	48010	48	CG	Pedagogia
+289	81301	81	CG	Economia Empresarial e Controladoria
+290	48015	48	CG	Pedagogia
+291	48011	48	CG	Pedagogia
+292	48012	48	CG	Pedagogia
+293	48013	48	CG	Pedagogia
+294	48014	48	CG	Pedagogia
+295	60013	60	CG	Farmácia - Bioquímica
+296	55010	55	CG	Matemática Bacharelado
+297	55020	55	CG	Matemática Bacharelado
+298	55021	55	CG	Matemática Bacharelado
+299	55030	55	CG	Matemática
+300	55040	55	CG	Bacharelado em Ciências de Computação
+301	76061	76	CG	Bacharelado em Ciências Físicas e Biomoleculares
+302	76041	76	CG	Bacharelado em Física Computacional
+303	76014	76	CG	Física
+304	55041	55	CG	Bacharelado em Ciências de Computação
+305	55050	55	CG	Bacharelado em Informática
+306	55051	55	CG	Bacharelado em Sistemas de Informação
+307	55060	55	CG	Bacharelado em Matemática Aplicada e Computação Científica
+308	55070	55	CG	Bacharelado em Estatística
+309	58010	58	CG	Odontologia
+310	58011	58	CG	Odontologia
+311	58012	58	CG	Odontologia
+312	59010	59	CG	Ciências Biológicas
+313	59011	59	CG	Ciências Biológicas
+314	59012	59	CG	Ciências Biológicas
+315	59020	59	CG	Química
+316	59021	59	CG	Química
+317	59022	59	CG	Química
+318	59023	59	CG	Química
+319	59030	59	CG	Psicologia
+320	59040	59	CG	Bacharelado em Física Médica
+321	59050	59	CG	Pedagogia
+322	59051	59	CG	Pedagogia
+323	59052	59	CG	Pedagogia
+324	59060	59	CG	Bacharelado em Biblioteconomia e Ciência da Informação
+325	59070	59	CG	Licenciatura em Química
+326	59100	59	CG	Bacharelado em Matemática Aplicada a Negócios
+327	59110	59	CG	Bacharelado em Matemática Aplicada a Negócios
+328	59250	59	CG	Música
+329	60014	60	CG	Farmácia
+330	59260	59	CG	Educação Artística - Licenciatura
+331	60010	60	CG	Farmácia
+332	60011	60	CG	Farmácia - Bioquímica
+333	60012	60	CG	Farmácia - Bioquímica
+334	66001	66	CG	Física Médica
+335	71001	71	CG	Bacharelado em Arqueologia
+336	74010	74	CG	Zootecnia
+337	74011	74	CG	Zootecnia
+338	74012	74	CG	Zootecnia
+339	74100	74	CG	Engenharia de Alimentos
+340	74200	74	CG	Medicina Veterinária
+341	74300	74	CG	Engenharia de Biossistemas
+342	75010	75	CG	Química
+343	75011	75	CG	Química
+344	75012	75	CG	Química
+345	75013	75	CG	Química
+346	75014	75	CG	Química
+347	59061	59	CG	Bacharelado em Biblioteconomia e Ciência da Informação
+348	76010	76	CG	Física
+349	76011	76	CG	Física
+350	76012	76	CG	Física
+351	59031	59	CG	Psicologia
+352	76013	76	CG	Física
+353	76040	76	CG	Bacharelado em Física Computacional
+354	76060	76	CG	Bacharelado em Ciências Físicas e Biomoleculares
+355	81001	81	CG	Bacharelado em Administração
+356	81002	81	CG	Bacharelado em Administração
+357	81003	81	CG	Bacharelado em Administração
+358	81100	81	CG	Bacharelado em Ciências Econômicas
+359	81101	81	CG	Bacharelado em Ciências Econômicas
+360	81200	81	CG	Ciências Contábeis
+361	81300	81	CG	Economia Empresarial e Controladoria
+362	86050	86	CG	Bacharelado em Educação Física e Saúde
+363	86100	86	CG	Bacharelado em Gestão Ambiental
+364	86150	86	CG	Bacharelado em Lazer e Turismo
+365	86200	86	CG	Bacharelado em Sistemas de Informação
+366	99002	99	CG	Arquitetura e Urbanismo
+367	86250	86	CG	Bacharelado em Têxtil e Moda
+368	86300	86	CG	Gerontologia
+369	86350	86	CG	Gestão de Políticas Públicas
+370	86400	86	CG	Licenciatura em Ciências da Natureza
+371	86450	86	CG	Marketing
+372	86500	86	CG	Obstetrícia
+373	86501	86	CG	Obstetrícia
+374	87001	87	CG	Bacharelado em Relações Internacionais
+375	88050	88	CG	Engenharia Química
+376	88051	88	CG	Engenharia Química
+377	88052	88	CG	Engenharia Química
+378	88100	88	CG	Engenharia Industrial Química
+379	88101	88	CG	Engenharia Industrial Química
+380	88150	88	CG	Engenharia Bioquímica
+381	88151	88	CG	Engenharia Bioquímica
+382	88152	88	CG	Engenharia Bioquímica
+383	88200	88	CG	Engenharia de Materiais
+384	88201	88	CG	Engenharia de Materiais
+385	88202	88	CG	Engenharia de Materiais
+386	88251	88	CG	Engenharia Ambiental
+387	88301	88	CG	Engenharia Física
+388	88351	88	CG	Engenharia de Produção
+389	88401	88	CG	Engenharia Mecânica
+390	89001	89	CG	Direito
+391	90010	90	CG	Licenciatura em Ciências Exatas
+392	90011	90	CG	Licenciatura em Ciências Exatas
+393	91010	91	CG	Informática Biomédica
+394	91011	91	CG	Informática Biomédica
+395	86550	86	CG	Bacharelado em Biotecnologia
+396	96001	96	CG	Bacharelado em Matemática Aplicada a Negócios
+397	97001	97	CG	Engenharia de Computação
+398	98001	98	CG	Educação Física e Esporte
+399	99001	99	CG	Arquitetura e Urbanismo
+400	99100	99	CG	Geografia
+401	89002	89	CG	Direito
+402	55071	55	CG	Bacharelado em Estatística e Ciência de Dados
+403	88352	88	CG	Engenharia de Produção
